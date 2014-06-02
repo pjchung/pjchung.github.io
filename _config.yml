@@ -8,3 +8,15 @@ url: "http://pjchung.github.io"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Excludes
+exclude:
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - node_modules/
+  - package.json
+  - Rakefile
+  - README.md
+  - bower_components/
+  - bower.json
