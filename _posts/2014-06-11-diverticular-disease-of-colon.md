@@ -5,7 +5,7 @@ date:   2014-06-11 00:00:00
 categories: large-bowel
 ---
 
-# Uncomplicated Diverticulitis
+## Uncomplicated Diverticulitis
 * Antibiotics (IV vs PO)
 * Lifestyle modification
   * High fiber diets
@@ -16,7 +16,7 @@ categories: large-bowel
   * 2% fewer colostomies
   * Saves $5429 per patient
 
-# Complicated Diverticulitis
+## Complicated Diverticulitis
 
 
 #### Hinchey Classification
@@ -59,7 +59,7 @@ categories: large-bowel
   * Hartmann\'s Procedure
   * Creation of mucous fistula
  
-# Bleeding Diverticulitis
+## Bleeding Diverticulitis
 * Criteria for surgery
   * Requires > 4 units RBC in 24-hour period
   * Continue to bleed after 72 hours
