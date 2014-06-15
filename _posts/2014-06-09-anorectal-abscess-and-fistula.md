@@ -23,6 +23,8 @@ categories: large-bowel anorectal
   * Fistula = chronic state
   
 ## Classification by Location
+![abscess-location](/assets/2014-06-09-anorectal-abscess-and-fistula/abscess_location.png)
+
 1. **Supralevator**
 1. **Submucosal**
 1. **Intersphincteric**
@@ -31,7 +33,6 @@ categories: large-bowel anorectal
 1. **Ischiorectal**
 1. **Horseshoe**
 
-![abscess-location](/assets/2014-06-09-anorectal-abscess-and-fistula/abscess_location.png)
 
 ## Treatment
 
