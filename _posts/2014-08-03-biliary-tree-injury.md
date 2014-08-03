@@ -20,4 +20,4 @@ categories: hepato-biliary
   * E4 (Bismuth Type 4) = destruction of the biliary confluence
   * E5 (Bismuth Type 5) = injury to an aberrant right hepatic duct
 
-Strasberg SM, Hertl M, Soper NJ. An analysis of the problem of biliary injury during laparoscopic cholecystectomy. J Am Coll Surg 1995; 180:101.
+> Strasberg SM, Hertl M, Soper NJ. An analysis of the problem of biliary injury during laparoscopic cholecystectomy. J Am Coll Surg 1995; 180:101.
