@@ -2,7 +2,7 @@
 layout: post
 title:  "Anorectal Abscess and Fistula"
 date:   2014-06-09 21:00:00
-categories: large-bowel anorectal
+categories: anorectal
 ---
 
 # Abscesses

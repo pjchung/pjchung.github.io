@@ -2,7 +2,7 @@
 layout: post
 title:  "Malignant Liver Tumors"
 date:   2014-06-14 22:00:00
-categories: liver cancer
+categories: cancer liver
 ---
 
 ## Goals
