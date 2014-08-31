@@ -18,5 +18,4 @@ exclude:
   - package.json
   - Rakefile
   - README.md
-  - bower_components/
   - bower.json

@@ -62,18 +62,18 @@ categories: trauma
 
 | Type    | Stability | Fracture Types |
 |---------|-----------|----------------|
-| Type A | Stable | Transverse sacral, Iliac wing, Pubic rami, Pure acetabular, Chip & avulsion fractures |
-| Type B | Partially Stable (vertically stable, rotationally unstable) | Open-book, Bucket-handle |
-| Type C | Unstable (vertically unstable, rotationally unstable) | Complete disruption of sacroiliac complex |
+| Type A  | Stable | Transverse sacral, Iliac wing, Pubic rami, Pure acetabular, Chip & avulsion fractures |
+| Type B  | Partially Stable (vertically stable, rotationally unstable) | Open-book, Bucket-handle |
+| Type C  | Unstable (vertically unstable, rotationally unstable) | Complete disruption of sacroiliac complex |
 
 #### Young-Burgess Classification System
 
 | Type | Class | Characteristic | Hemipelvic Displacement | Stability |
 |------|-------|----------------|-------------------------|-----------|
-| AP | I | Pubic diastasis < 2.5 cm | External rotation | Stable |
-| AP | II | Pubic diastasis > 2.5 cm, Anterior SI joint disruption | External rotation | Rotationally unstable, vertically stable |
-| AP | III | Type II and Posterior SI joint disruption | External rotation | Rotationally unstable, vertically stable |
+| AP   | I | Pubic diastasis < 2.5 cm | External rotation | Stable |
+| AP   | II | Pubic diastasis > 2.5 cm, Anterior SI joint disruption | External rotation | Rotationally unstable, vertically stable |
+| AP   | III | Type II and Posterior SI joint disruption | External rotation | Rotationally unstable, vertically stable |
 | Lateral compression | I | Ipsilateral sacral buckle fractures, ipsilateral horizontal pubic rami fractures (or disruption of symphysis with overlapping bones) | Internal rotation | Stable |
 | Lateral compression | II | Type I and ipsilateral iliac wing fracture or posterior SI joint disruption | Internal rotation | Rotationally unstable, vertically stable |
-| Vertical shear |  | Vertical pubic rami fractures, SI joint disruption &plusmn; adjacent fractures | Vertical (cranial) | Rotationally unstable, vertically stable |
+| Vertical shear  |  | Vertical pubic rami fractures, SI joint disruption &plusmn; adjacent fractures | Vertical (cranial) | Rotationally unstable, vertically unstable |
 
