@@ -7,10 +7,10 @@ permalink: /syllabus/
 * Esophageal Function Tests
 * Gastroesophageal Reflux Disease
 * Endoluminal Approaches to Gastroesophageal Reflux Disease
-* The Management of Barrettâs Esophagus
-* The Endoscopic Treatment of Barrettâs Esophagus
-* **The Management of Paraesophageal Hiatal Hernia** &#x2713;
-* The Management of Pharyngeal Esophageal (Zenkerâs) Diverticula
+* The Management of Barrett's Esophagus
+* The Endoscopic Treatment of Barrett's Esophagus
+* **The Management of Paraesophageal Hiatal Hernia** &#x2713; <!-- check mark -->
+* The Management of Pharyngeal Esophageal (Zenker's Diverticula)
 * The Management of Achalasia of the Esophagus
 * The Management of Disorders of Esophageal Motility
 * The Management of Esophageal Tumors
@@ -29,8 +29,8 @@ permalink: /syllabus/
 
 ### Section 3: Small Bowel
 * **The Management of Small Bowel Obstruction**
-* The Management of Crohnâs Disease of the Small Bowel
-* Strictureplasty in Crohnâs Disease
+* The Management of Crohn's Disease of the Small Bowel
+* Strictureplasty in Crohn's Disease
 * The Management of Small Bowel Tumors
 * The Management of Diverticulosis of the Small Bowel
 * The Management of Motility Disorders of the Stomach and Small Bowel
@@ -47,7 +47,7 @@ permalink: /syllabus/
 * The Management of Clostridium Difficile Colitis
 * Large Bowel Obstruction
 * The Use of Stents for Colonic Obstruction
-* The Management of Acute Colonic Pseudo-Obstruction (Ogilvieâs Syndrome)
+* The Management of Acute Colonic Pseudo-Obstruction (Ogilvie's Syndrome)
 * **The Management of Colonic Volvulus**
 * The Management of Rectal Prolapse and Obstructed Defecation
 * Management of Solitary Rectal Ulcer Syndrome
@@ -210,11 +210,11 @@ permalink: /syllabus/
 * **The Management of Peripheral Arterial Embolis**
 * Acute Peripheral Arterial and Bypass Graft Occlusion: Thrombolytic Therapy
 * Atherosclerotic Renovascular Disease
-* Raynaudâs Syndrome
+* Raynaud's Syndrome
 * Thoracic Outlet Syndrome
 * **The Diabetic Foot**
 * Gangrene of the Foot
-* Buergerâs Disease (Thromboangiitis Obliterans)
+* Buerger's Disease (Thromboangiitis Obliterans)
 * Acute Mesenteric Ischemia
 * Chronic Mesenteric Ischemia
 * Management of Infected Vascular Graft
@@ -228,7 +228,7 @@ permalink: /syllabus/
 ### Section 16: Trauma and Emergency Care
 * The Initial Assessment and Resuscitation of the Trauma Patient
 * Airway Management in the Trauma Patient
-* The Surgeonâs Use of Ultrasound in Thoracoabdominal Trauma
+* The Surgeon's Use of Ultrasound in Thoracoabdominal Trauma
 * **Emergency Department Thoracotomy**
 * The Management of Traumatic Brain Injury
 * Chest Wall Trauma, Pneumothorax and Hemothorax
@@ -250,7 +250,7 @@ permalink: /syllabus/
 * **Abdominal Compartment Syndrome and Management of the Open Abdomen**
 * Blood Transfusion Therapy in Trauma
 * Coagulopathy in the Trauma Patient
-* The Abdomen That Wonât Close
+* The Abdomen That Won't Close
 * The Management of Vascular Injuries
 * Endovascular Management of Vascular Injuries
 * Management of Extremity Compartment Syndrome
@@ -301,7 +301,7 @@ permalink: /syllabus/
 * Laparoscopic Repair of Parastomal Hernias
 * Laparoscopic Splenectomy
 * Laparoscopic Gastric Surgery
-* Laparoscopic Management of Crohnâs Disease
+* Laparoscopic Management of Crohn's Disease
 * Laparoscopic Colon Surgery
 * Minimally Invasive Esophagectomy
 * Laparoscopic Repair of Paresophageal Hernias

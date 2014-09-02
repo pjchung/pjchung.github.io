@@ -5,7 +5,7 @@ date: 2014-08-11 01:00:00
 categories: hepato-biliary
 ---
 
-## Epidemiology
+### Epidemiology
 
 * First described by *Courvosisier* in 1890
 * 3% of intestinal obstructions
@@ -13,7 +13,7 @@ categories: hepato-biliary
 * More common in older women
 * Female > Male (3:1 to 5:1)
 
-## Pathogenesis
+### Pathogenesis
 
 * Requires a preceding biliary enteric fistula between gallbladder and intestine
   * Commonly duodenum adjacent to gallbladder
@@ -24,13 +24,13 @@ categories: hepato-biliary
   * Common bile duct obstructions (**Mirizzi\'s Syndrome**)
 * After endoscopic sphincterotomy for CBD stones
 
-## Variations
+### Variations
 
 * **Bouveret\'s Syndrome**
   * Large gallstone eroding into stomach with obstruction of stone at pylorus or proximal duodenum
   * Present with gastric outlet syndrome
   
-## Diagnosis
+### Diagnosis
 
 * Many cases of gallstone ileus thought to be just small bowel obstruction at time of diagnosis
 * Often diagnosis made in operating room
@@ -61,7 +61,7 @@ categories: hepato-biliary
 * CT Abdomen/Pelvis
   * Most sensitive
 
-## Management
+### Management
 
 * Patients often present **dehydrated** and with **electrolyte abnormalities**
 * Initial focus on resuscitation and electrolyte correction
