@@ -1,0 +1,237 @@
+{
+  "qlist": {
+    "qbox": [
+      {
+        "question": "The components that contribute to the function of the LES include all of the following EXCEPT",
+        "choice": {
+          "a": "Length of the intra-abdominal esophagus",
+          "b": "Width of the diaphragmatic hiatus",
+          "c": "Resting pressure (tone) in the lower esophageal muscle",
+          "d": "Length of the area of increased tone in the lower esophageal muscle"
+        },
+        "answer": "B",
+        "explanation": "As defined by esophageal manometry, there are three characteristics of the LES that work in unison to maintain its barrier function. These characteristics include the resting LES pressure, its overall length, and the intra-abdominal length that is exposed to the positive pressure environment of the abdomen.\nTherefore, a permanently defective sphincter is defined by one or more of the following characteristics: An LES with a mean resting pressure of less than 6 mmHg, an overall sphincter length of <2 cm, and intra-abdominal sphincter length of <1 cm. When compared to normal subjects without GERD these values are below the 2.5 percentile for each parameter. The most common cause of a defective sphincter is an inadequate abdominal length.",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "In a patient undergoing curative resection for an adenocarcinoma of the gastroesophageal junction, how much proximal normal esophagus should be resected?",
+        "choice": {
+          "a": "3 cm",
+          "b": "5 cm",
+          "c": "8 cm",
+          "d": "The entire thoracic esophagus (cervical division)"
+        },
+        "answer": "D",
+        "explanation": "Because of the propensity of GI tumors to spread for long distances submucosally, long lengths of grossly normal GI tract should be resected. The longitudinal lymph flow in the esophagus can result in skip areas, with small foci of tumor above the primary lesion, which underscores the importance of a wide resection of esophageal tumors. Wong has shown that local recurrence at the anastomosis can be prevented by obtaining a 10-cm margin of normal esophagus above the tumor. Anatomic studies have also shown that there is no submucosal lymphatic barrier between the esophagus and the stomach at the cardia, and Wong has shown that 50% of the local recurrences in patients with esophageal cancer who are resected for cure occur in the intrathoracic stomach along the line of the gastric resection. Considering that the length of the esophagus ranges from 17 to 25 cm, and the length of the lesser curvature of the stomach is approximately 12 cm, a curative resection requires a cervical division of the esophagus and a >50% proximal gastrectomy in most patients with carcinoma of the distal esophagus or cardia.",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "A patient with dysphagia undergoes a barium swallow. Based on the image shown, the most likely diagnosis is",
+        "qpicture": "/assets/questions/esophagus-diaphragm/esophagus_question_1.png",
+        "choice": {
+          "a": "Achalasia",
+          "b": "Diffuse esophageal spasm",
+          "c": "Nutcracker esophagus",
+          "d": "Ineffective esophageal motility disorder"
+        },
+        "answer": "B",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "Which of the following is the treatment of choice in a patient with scleroderma and multiple symptomatic strictures of the esophagus?",
+        "choice": {
+          "a": "Medical therapy alone (PPIs)",
+          "b": "Dilation and PPIs",
+          "c": "Toupet fundoplication, if dilation and PPI are ineffective",
+          "d": "Nissen fundoplication, if dilation and PPI are ineffective"
+        },
+        "answer": "C",
+        "explanation": "Traditionally, esophageal symptoms (in patients with scleroderma) have been treated with PPIs, antacids, elevation of the head of the bed, and multiple dilations for strictures, with generally unsatisfactory results. The degree of esophagitis is usually severe and may lead to marked esophageal shortening as well as stricture. Scleroderma patients have frequently had numerous dilations before they are referred to the surgeon. The surgical management is somewhat controversial, but the majority of opinion suggests that a partial fundoplication (anterior or posterior) performed laparoscopically is the procedure of choice. The need for a partial fundoplication is dictated by the likelihood of severe dysphagia if a total fundoplication is performed in the presence of aperistalsis. Esophageal shortening may require a Collis gastroplasty in combination with a partial fundoplication.",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "A patient presents with dysphagia and undergoes a barium swallow. Based on the image shown, the most likely diagnosis is",
+        "choice": {
+          "a": "Adenocarcinoma",
+          "b": "Adenoma",
+          "c": "Sarcoma",
+          "d": "Leiomyoma"
+        },
+        "answer": "D",
+        "qpicture": "/assets/questions/esophagus-diaphragm/esophagus_question_2.png",
+        "explanation": "A barium swallow is the most useful method to demonstrate a leiomyoma of the esophagus. In profile, the tumor appears as a smooth, semilunar, or crescent-shaped filling defect that moves with swallowing, is sharply demarcated, and is covered and surrounded by normal mucosa.",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "Which of the following is NOT one of the five principles of surgical correction of gastroesophageal reflux?",
+        "choice": {
+          "a": "The fundoplication should be maintained in the abdomen by a crural repair",
+          "b": "The operation should restore the pressure of the LES to 10 times the resting gastric pressure",
+          "c": "An adequate amount of intra-abdominal esophagus must be obtained (approximately 2 cm)",
+          "d": "The fundoplication should not increase the resistance above what the peristalsis of the esophagus can overcome (approximately 2-cm wrap)"
+        },
+        "answer": "B",
+        "explanation": "First, the operation should restore the pressure of the distal esophageal sphincter to a level twice the resting gastric pressure (i.e., 12 mmHg for a gastric pressure of 6 mmHg), and its length to at least 3 cm. Second, the operation should place an adequate length of the distal esophageal sphincter in the positive-pressure environment of the abdomen by a method that ensures its response to changes in intra-abdominal pressure. The permanent restoration of 1.5 to 2 cm of abdominal esophagus in a patient whose sphincter pressure has been augmented to twice resting gastric pressure will maintain the competency of the cardia over various challenges of intra-abdominal pressure. Third, the operation should allow the reconstructed cardia to relax on deglutition. In normal swallowing, a vagally mediated relaxation of the distal esophageal sphincter and the gastric fundus occurs. The relaxation lasts for approximately 10 seconds and is followed by a rapid recovery to the former tonicity. To ensure relaxation of the sphincter, three factors are important: (a) Only the fundus of the stomach should be used to buttress the sphincter, because it is known to relax in concert with the sphincter; (b) the gastric wrap should be properly placed around the sphincter and not incorporate a portion of the stomach or be placed around the stomach itself, because the body of the stomach does not relax with swallowing; and (c) damage to the vagal nerves during dissection of the thoracic esophagus should be avoided because it may result in failure of the sphincter to relax. Fourth, the fundoplication should not increase the resistance of the relaxed sphincter to a level that exceeds the peristaltic power of the body of the esophagus. The resistance of the relaxed sphincter depends on the degree, length, and diameter of the gastric fundic wrap, and on the variation in intra-abdominal pressure. A 360° gastric wrap should be no longer than 2 cm and constructed over a 60F bougie. This will ensure that the relaxed sphincter will have an adequate diameter with minimal resistance. Fifth, the operation should ensure that the fundoplication can be placed in the abdomen without undue tension, and maintained there by approximating the crura of the diaphragm above the repair.",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "Nonoperative management of an esophageal perforation can be considered in patients who",
+        "choice": {
+          "a": "Have mild symptoms",
+          "b": "Show drainage of extravasated contrast back into the esophagus",
+          "c": "Have mild signs of sepsis",
+          "d": "All of the above"
+        },
+        "answer": "D",
+        "apicture": "/assets/questions/esophagus-diaphragm/esophagus_answer_1.png",
+        "explanation": "Conservative management (of esophageal perforation) should not be used in patients who have free perforations into the pleural space. Cameron proposed three criteria for the nonoperative management of esophageal perforation: (a) The barium swallow must show the perforation to be contained within the mediastinum and drain well back into the esophagus (see figure), (b) symptoms should be mild, and (c) there should be minimal evidence of clinical sepsis. If these conditions are met, it is reasonable to treat the patient with hyperalimentation, antibiotics, and cimetidine to decrease acid secretion and diminish pepsin activity. Oral intake is resumed in 7 to 14 days, dependent on subsequent radiographic examinations.",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      },
+      {
+        "question": "",
+        "choice": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "answer": "",
+        "explanation": "",
+        "source": "Schwartz’s Principles of Surgery ABSITE and Board Review, 9e"
+      }
+    ]
+  }
+}

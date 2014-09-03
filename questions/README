@@ -1,0 +1,15 @@
+Tags:
+  <qlist>         : question list
+    <qbox>        : individual questions
+    <question>    : the question
+    <qpicture>    : (optional) path to a picture shown in the question
+    <choice>      : question choices
+      <a>
+      <b>
+      <c>
+      <d>
+      ...         : etc.
+    <answer>      : correct answer choice
+    <apicture>    : (optional) path to a picture shown in the explanation
+    <explanation> : the explanation
+    <source>      : source of the question
