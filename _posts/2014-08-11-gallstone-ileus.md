@@ -2,7 +2,7 @@
 layout: post
 title:  "Gallstone Ileus"
 date: 2014-08-11 01:00:00
-categories: hepato-biliary
+categories: hepatobiliary
 ---
 
 ### Epidemiology

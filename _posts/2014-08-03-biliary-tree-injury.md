@@ -2,7 +2,7 @@
 layout: post
 title:  "Biliary Tree Injury"
 date: 2014-08-03 01:00:00
-categories: hepato-biliary
+categories: hepatobiliary
 ---
 
 ### Strasberg Classification
