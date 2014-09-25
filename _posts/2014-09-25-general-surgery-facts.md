@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trauma Facts"
+title: "General Surgery Facts"
 date: 2014-09-25 11:00:00
 categories: general-surgery
 ---
