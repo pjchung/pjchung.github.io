@@ -37,7 +37,7 @@ categories: oncology
 * Stage for stage has similar survival with female breast cancer
 * Worse outcomes because males usually are diagnosed with advanced disease (Stage III or IV)
 * DCIS &lt; 15%
-* Infiltrating Ductal Carcinoma &gte; 85%
+* Infiltrating Ductal Carcinoma &ge; 85%
 * 80% are hormone receptor positive - consider adjuvant _Tamoxifen_
 * Systemic chemotherapy considered for
   * Hormone receptor negative
