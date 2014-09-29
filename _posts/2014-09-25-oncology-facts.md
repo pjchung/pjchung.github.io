@@ -18,3 +18,29 @@ categories: oncology
 * _DCC_ (deleted in colon cancer) gene mutation causes interference in cellular adhesion
 * Northern blotting detects expression of genes (presence of mRNA)
 * High dose Interleukin-2 (_IL-2_) therapy is effective for Renal Cell Carcinoma and Melanoma
+
+
+### Male Breast Cancer
+
+* &lt; 1% of all breast cancers
+* Peak incidence at 6th decade (age 68)
+* Risk factors
+  * Family history
+    * BRCA 2 &gt; BRCA 1 (6% vs 1% lifetime risk)
+  * Radiation exposure
+  * Estrogen therapy
+  * Testicular Feminizing Syndrome (androgen insensitivity)
+  * _Klinefelter's Syndrome (XXY)_
+* Preceeded by Gynecomastia in 20% of men
+  * Gynecomastia is a benign condition
+  * Has similar risk factors as male breast cancer
+* Stage for stage has similar survival with female breast cancer
+* Worse outcomes because males usually are diagnosed with advanced disease (Stage III or IV)
+* DCIS &lt; 15%
+* Infiltrating Ductal Carcinoma &gte; 85%
+* 80% are hormone receptor positive - consider adjuvant _Tamoxifen_
+* Systemic chemotherapy considered for
+  * Hormone receptor negative
+  * Large primary tumors
+  * Multiple positive nodes
+  * Locally advanced disease

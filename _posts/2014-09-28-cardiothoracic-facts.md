@@ -5,10 +5,10 @@ date: 2014-09-28 20:00:00
 categories: cardiothoracic
 ---
 
-* Cervical Mediastinoscopy
+* *Cervical Mediastinoscopy*
   * Mediastinoscopy via a suprasternal incision
   * Limited in that it cannot access the Aorticopulmonary window
-* Anterior Mediastinoscopy (_Chamberlain Procedure_)
+* *Anterior Mediastinoscopy (_Chamberlain Procedure_)*
   * Access to the Aorticopulmonary window
   * Incision at second intercostal space on left
   * ![chamberlain_1](/assets/2014-09-28-cardiothoracic-facts/Chamberlain_1.jpeg)
