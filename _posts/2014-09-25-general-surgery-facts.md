@@ -5,6 +5,7 @@ date: 2014-09-25 11:00:00
 categories: general-surgery
 ---
 
+### Large Bowel
 * 5-FU is a radiosensitizer
 * Vascular ectasia occurs most commonly in cecum or ascending colon (right colon)
 * Pyoderma Gangrenosum is associated with Ulcerative Colitis
@@ -22,3 +23,19 @@ categories: general-surgery
 * FAP can be associated with Desmoid Tumors
 * FAP is a result of mutation of the APC gene in chromosome 5q
 * Most common postop complication of Restorative Proctocolectomy in Ulcerative Colitis is SBO
+
+### Biliary Disease
+* Ampullary Neoplasms - need to decide between **Ampullectomy** vs **Pancreaticoduodenectomy**
+* Benign Ampullary Neoplasms
+  * Villous Adenoma (most common)
+  * Carcinoids
+  * Lipomas
+  * Adenomatous Polyps
+* Malignant Ampullary Neoplasms
+* Radical Pancreaticoduodenectomy for Malignant lesions or multiple adenomas
+* **Sclerosing Cholangitis** typically does **NOT** involve the extrahepatic biliary tree
+* Bile Cholesterol Saturation Index is determined by the relative concentrations of Cholesterol, Lecithin, Bile Salts
+* **Chronic Acalculous Cholecystitis** is diagnosed with HIDA scan showing an ejection fraction &lt; 35%
+* Treatment of **Emphysematous Cholecystitis** requires treating *E. coli*, *Klebsiella*, *Enterococcus*, and *Clostridia spp.*
+* *Clonorchis sinensis* = Human Liver Fluke - responsible for **Oriental Cholangiohepatitis**
+* Cholesterol crystals tend to precipitate around *nucleating agents* such as Biliary Mucin Glycoproteins or Epithelium
