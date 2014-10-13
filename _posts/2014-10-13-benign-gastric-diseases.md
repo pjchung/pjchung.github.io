@@ -132,6 +132,8 @@ categories: stomach
     * Leave ulcer base while performing the Antrectomy as usual
     * With the source of inflammation removed the area heals without affecting the anastomosis
 
+![billroth_i](/assets/2014-10-13-benign-gastric-diseases/billroth_i.png)
+
 * **Billroth I (Gastroduodenostomy)**
   * Preferred reconstruction for most Benign Gastric Diseases
   * **Angle of Sorrow** &#8594; point where the reconstructed Lesser Curvature meets the Gastroduodenal suture line
