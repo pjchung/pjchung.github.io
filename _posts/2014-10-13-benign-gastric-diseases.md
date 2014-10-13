@@ -11,6 +11,59 @@ categories: stomach
 * Must rule-out malignancy when suspicious
 * Malignant disease tends to be located along Greater Curvature
 * Operative treatment in the setting of failed medical management
+* Gastric Ulcer symptoms worsen with food intake
+* Duodenal Ulcer symptoms alleviate with food intake
+
+#### Risk Factors
+
+* *Helicobacter pylori* infection
+  * Associated with 90 - 95% of Duodenal Ulcers
+  * Associated with 70 - 90% of Gastric Ulcers
+  * Causes Chronic Antral Gastritis &#8594; increased acid and Gastrin production and reduced mucosal resistance to acid
+* NSAIDs
+  * 8-fold increased risk of Duodenal Ulcer formation
+  * 40-fold increased risk of Gastric Ulcer formation
+  * Suppressed Prostaglandin formation
+* Cigarette Smoking
+* Increased Acid Production
+  * Associated with Type II and III ulcers
+
+#### Diagnosis
+
+* Esophagogastroduodenoscopy (EGD)
+  * Visualization of ulcers
+  * Tissue biopsy to rule-out malignancy and diagnose *H. pylori* infections
+* *H. pylori* Infection
+  * **Urea Breath Test**
+  * **Serologic Antibody Testing**
+  * Rapid Urease Testing via **Cod Liver Oil (CLO) Test**
+  * Direct **Histologic Examination**
+* Fasting Serum Gastrin Levels
+  * In setting of *H. pylori* negative and non-NSAID user with recurrent disease despite adequate medical therapy
+  * To rule-out **Zollinger-Ellison Syndrome** (very rare)
+  
+#### Medical Therapy
+
+* *H. pylori* Erradication
+  * Triple Therapy for 10 - 14 days
+  * Quadruple Therapy for 10 - 14 days
+* NSAID Cessation
+  * PPI in addition
+* Smoking Cessation
+* Follow-up Endoscopy
+  * **3% of ulcers harbor malignancy**
+  
+#### Surgical Therapy
+
+* Truncal Vagotomy with Antrectomy (Billroth I or II)
+  * Lowest recurrence rate (1 - 2%)
+  * Highest postoperative morbidity (15 - 30%)
+  * High mortality rate (1 - 2%)
+* Truncal Vagotomy with Drainage Procedure
+* Highly Selective Vagotomy (HSV)
+  * Highest recurrence rate (5 - 15%)
+  * Lowest postoperative morbidity (5 - 8%)
+  * Lowest mortality rate
 
 #### Johnson Classification of Gastric Ulcers
 
@@ -60,14 +113,52 @@ categories: stomach
 #### Perforation
 
 * Most common complication
+* Subdiaphragmatic free air in 80 - 85% of XRs
+* Aggressive fluid resuscitation
+* Broad-spectrum antibiotics
+* Prompt surgical repair
+* **Duodenal Ulcers**
+  * **Graham Patch** with postoperative *H. pylori* therapy
+  * **Truncal Vagotomy with Drainage Procedure** in stable patient known to be *H. pylori* negative or who failed medical therapy
+* **Gastric Ulcers**
+  * **Wedge Resection with Oversewing** and specimen sent to pathology to exclude malignancy
+  * **Graham Patch** with multiple **Biopsies** if ulcer is at a Juxtapyloric location that makes Wedge resection impossible
 
 #### Hemorrhage
+
+* Leading cause of mortality with PUD (5 - 10%)
+* Spontaneous cessation of bleeding occurs in 70% of patients
+* Aggressive fluid resuscitation
+* Correction of coagulopathy
+* **Endoscopic Therapy with Cautery or Epinephrine** indications
+  * Hemodynamic instability
+  * Continuous transfusion required
+  * Hematemesis
+  * BRBPR
+  * Age &ge; 60 years
+* Visible vessel or active bleeding confer greatest risk of rebleed &#8594; Endoscopic hemostasis
+* **Surgical Therapy** indications
+  * Continued hemodynamic instability
+  * &gt; 6 units pRBC over 24 hours
+  * &gt; 1 endoscopic interventions
+  * **Duodenal Ulcers**
+    * Gastroduodenostomy
+    * Three-point oversewing of the Gastroduodenal Artery
+    * Acid-reducing procedure in the hemodynamically stable patient
+    * *H. pylori* erradication postoperatively to reduce recurrent bleed
+  * **Gastric Ulcers**
+    * **Biopsy** to rule out malignancy
+    * **Wedge Resection or Oversewing** in the hemodynamically unstable patient
+    * **Vagotomy and Antrectomy** can be considered in the hemodynamically stable patient
 
 #### Obstruction
 
 * Least common complication of Gastric Ulcers
 * Can be due to acute inflammation and edema
 * Nasogastric decompression with fluid and electrolyte replacement
+* **Surgical Therapy** indicated if
+  * Persistent obstruction after **7 days** of non-operative management
+  * Recurrent obstruction
 * Definite cure is resection and reconstruction
   * **Billroth I with Vagotomy** is the ideal
   * **Billroth II** or **Roux-en-Y** may be necessary if safe resection with tension-free anastomosis is not possible
