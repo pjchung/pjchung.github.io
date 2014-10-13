@@ -261,6 +261,44 @@ categories: stomach
   * **Retrocolic** and **Antecolic** Roux limbs shown to have similar outcomes
   * Superior to Billroth II in terms of subjective symptoms and Bile Reflux
 
+#### Postgastrectomy Syndromes
+
+* Clear diagnosis of the type of Postgastrectomy Syndrome necessary to create a rational treatment plan
+* Most are treated non-operatively and resolve with time
+
+* **Nutritional Disturbances**
+  * Can occur &le; 30% of post-gastrectomy patients
+  * Deficiencies of
+    * Iron
+    * Folate
+    * Vitamin B12
+    * Calcium
+    * Vitamin D
+* **Dumping Syndromes**
+  * Most common after **Billroth II** reconstructions
+  * Rapid emptying of high-osmolar carbohydrate load into small intestines
+  * **Early Dumping**
+    * &le; 30 minutes of eating
+    * Nausea, explosive diarrhea, epigastric pain, vasomotor symptoms (dizziness, flushing, palpitations, diaphoresis)
+    * Rapid fluid shifts from **Hyperosmolar** intestinal content and release of **Vasoactive Peptides** from gut
+    * Relieved by
+      * Lying down (recumbence)
+      * Saline infusion
+  * **Late Dumping**
+    * 1 - 4 hours after eating
+    * High simple carbohydrate load &#8594; **Hyperinsulinemia** and **Hypoglycemia**
+    * Relieved by giving simple carbohydrates
+  * Treatment
+    * Avoid simple carbohydrates
+    * Small frequent meals
+    * Liquids ingested 30 minutes after solids
+    * **Octreotide** results in persistent relief in 80% of patients
+    * Conversion to **Roux-en-Y**
+* **Alkaline Reflux Gastritis**
+* **Roux Stasis Syndrome**
+* **Loop Syndromes**
+* **Postvagotomy Diarrhea**
+
 ## Gastric Polyps
 
 ## Morbid Obesity
