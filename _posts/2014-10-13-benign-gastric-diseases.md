@@ -295,9 +295,60 @@ categories: stomach
     * **Octreotide** results in persistent relief in 80% of patients
     * Conversion to **Roux-en-Y**
 * **Alkaline Reflux Gastritis**
+  * Most common after **Billroth II** reconstruction
+  * Most likely complication to require operative correction
+  * Triad of **constant** nausea, epigastric pain, bilious emesis
+  * Pain not relieved by emesis
+  * Diagnosis
+    * EGD &#8594; rule out recurrent ulcers
+    * HIDA &#8594; demonstrates enterogastric reflux
+    * **NO** obstruction &#8594; differentiates Alkaline Reflux Gastritis from Loop Syndromes
+  * Treatment
+    * Frequent small meals
+    * Antiacids
+    * Cholestyramine
+    * **Long-limb (45 cm) Roux-en-Y** &#8594; eliminates Alkaline Reflux and is preferred option
 * **Roux Stasis Syndrome**
+  * &le; 30% of patients after Roux-en-Y
+  * Chronic abdominal pain, nausea, vomiting worse with meals
+  * **Functional obstruction** from disruption of the normal propagation of paceseetter potentials in Roux limb (proximal duodenum)
+  * Treatment
+    * **Near-total Gastrectomy** &#8594; removes atonic stomach to improve gastric emptying
+    * **"Uncut" Roux-en-Y** &#8594; preserves normal pacemaker propagation and prevents development of the syndrome
 * **Loop Syndromes**
+  * Found in **Billroth II** reconstructions
+  * Caused by **mechanical obstruction** of either the **Afferent** or **Efferent** limbs
+  * **Afferent Loop Syndrome**
+    * Bowel kink, volvulus, internal herniation of the Afferent limb
+    * Severe abdominal pain, **non-bilious emesis**
+    * First few weeks after surgery
+    * Elevated bilirubin/amylase
+    * Acute
+      * Can result in **Duodenal Stump Blowout** from progressive Afferent limb dilatation
+      * **Braun Side-to-Side Jejunojejunostomy** can acutely decompress the Afferent limb
+    * Chronic
+      * Partial mechanical obstruction of the Afferent limb
+      * Postprandial RUQ pain relieved by **Bilious emesis**
+      * Stasis &#8594; **Blind Loop Syndrome**
+        * Steatorrhea
+        * Deficiencies of Vitamin B12, Folate, Iron
+        * Interference with Fat absorption
+  * **Efferent Loop Syndrome**
+    * Intermittent obstruction of the Efferent limb
+    * Abdominal pain, **bilious emesis**
+    * Months to years after surgery
+    * Similar to a proximal small bowel obstruction
 * **Postvagotomy Diarrhea**
+  * 20% after Truncal Vagotomy
+  * Alterations in gastric emptying and Vagal denervation of small bowel and biliary tree
+  * Watery and episodic diarrhea
+  * Treatment
+    * Antidiarrhea medication
+      * Loperamide
+      * Diphenoxylate with Atropine
+      * Cholestyramine
+    * Decreasing excessive intake of fluids or foods with lactulose
+    * Surgery **RARELY** indicated
 
 ## Gastric Polyps
 
