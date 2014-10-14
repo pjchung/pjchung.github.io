@@ -19,8 +19,8 @@ permalink: /syllabus/
 * The Management of Esophageal Perforation
 
 ### Section 2: The Stomach
-* **The Management of Benign Gastric Ulcer**
-* The Management of Duodenal Ulcer
+* **The Management of Benign Gastric Ulcer** &#x2713; 
+* **The Management of Duodenal Ulcer** &#x2713; 
 * Zollinger-Ellison Syndrome
 * The Management of the Mallory-Weiss Syndrome
 * **The Management of Gastric Adenocarcinoma**

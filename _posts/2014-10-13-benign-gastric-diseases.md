@@ -12,6 +12,11 @@ categories: stomach
 * Malignant disease tends to be located along Greater Curvature
 * Operative treatment in the setting of failed medical management
 * Gastric Ulcer symptoms worsen with food intake
+* Duodenal Ulcers symptoms
+  * Sudden onset epigastric pain
+  * Gnawing
+  * Burning
+  * Stabbing
 * Duodenal Ulcer symptoms alleviate with food intake
 
 #### Risk Factors
@@ -33,6 +38,8 @@ categories: stomach
 * Esophagogastroduodenoscopy (EGD)
   * Visualization of ulcers
   * Tissue biopsy to rule-out malignancy and diagnose *H. pylori* infections
+  * Ulceration in distal Duodenum concerning for **Gastrinoma**
+  * Duodenal ulcers appear as sharply demarcated, clean edges, with exposed submucosa
 * *H. pylori* Infection
   * **Urea Breath Test**
   * **Serologic Antibody Testing**
@@ -45,8 +52,11 @@ categories: stomach
 #### Medical Therapy
 
 * *H. pylori* Erradication
-  * Triple Therapy for 10 - 14 days
-  * Quadruple Therapy for 10 - 14 days
+  * Triple Therapy (BID for each agent) for 14 days
+    * PPI (Omeprazole 20 mg or Lansoprazole 30 mg) + Amoxicillin 1000 mg + Clarithromycin 500 mg
+    * PPI (Omeprazole 20 mg or Lansoprazole 30 mg) + Metronidazole 500 mg + Clarithromycin 500 mg
+  * Quadruple Therapy for 14 days
+    * PPI (Omeprazole 20 mg Daily or Lansoprazole 30 mg Daily) + Metronidazole 500 mg TID + Tetracycline 500 mg QID + Bismuth subsalicylate 525 mg QID
 * NSAID Cessation
   * PPI in addition
 * Smoking Cessation
@@ -104,22 +114,35 @@ categories: stomach
     * **Total Gastrectomy** can be life-saving
 
 #### Giant Ulcers
-* &gt; 3 cm in diameter
+
+* Gastric: &gt; 3 cm in diameter
+* Duodenal: &gt; 2 cm in diameter
 * 30% of Giant Ulcers harbor malignant disease
 * Endoscopy with at least 12 biopsies of edge and base of ulcer (4 jumbo forceps, 8 regular forceps)
+
+#### Marginal Ulcers
+
+* Ulcers that affect the perianastomotic region following Gastrojejunostomy
+* Usually seen after Gastric Bypass surgery for Morbid Obesity
+* **Retained or Excluded Antrum** is no longer exposed to acid &#8594; **Hypergastrinemia** &#8594; further acid secretion
+* May be due to incomplete Vagotomy
+* May require conversion of **Billroth I** or **Billroth II** to **Roux-en-Y**
 
 ## Complications of Gastric and Duodenal Ulcers
 
 #### Perforation
 
-* Most common complication
+* Most common complication in Gastric Ulcers
+* Most common fatal complication in Duodenal Ulcers
+* Mostly found on anterior surface of Duodenum
 * Subdiaphragmatic free air in 80 - 85% of XRs
 * Aggressive fluid resuscitation
 * Broad-spectrum antibiotics
 * Prompt surgical repair
 * **Duodenal Ulcers**
-  * **Graham Patch** with postoperative *H. pylori* therapy
+  * **Graham Patch** with postoperative *H. pylori* therapy (place JP in Hepatorenal Recess and watch for bilious drainage)
   * **Truncal Vagotomy with Drainage Procedure** in stable patient known to be *H. pylori* negative or who failed medical therapy
+  * **Total Gastrectomy** is **RARELY** indicated due to the complications that arise
 * **Gastric Ulcers**
   * **Wedge Resection with Oversewing** and specimen sent to pathology to exclude malignancy
   * **Graham Patch** with multiple **Biopsies** if ulcer is at a Juxtapyloric location that makes Wedge resection impossible
@@ -128,8 +151,10 @@ categories: stomach
 
 * Leading cause of mortality with PUD (5 - 10%)
 * Spontaneous cessation of bleeding occurs in 70% of patients
+* Mostly found on posterior surface of Duodenum
 * Aggressive fluid resuscitation
 * Correction of coagulopathy
+* **PPI Drip**
 * **Endoscopic Therapy with Cautery or Epinephrine** indications
   * Hemodynamic instability
   * Continuous transfusion required
@@ -143,7 +168,11 @@ categories: stomach
   * &gt; 1 endoscopic interventions
   * **Duodenal Ulcers**
     * Gastroduodenostomy
-    * Three-point oversewing of the Gastroduodenal Artery
+      * Three-point oversewing of the Gastroduodenal Artery
+    * Kocher Maneuver
+      * Manual compression of the ulcer between thumb and finger
+      * Multiple U-stitches to control bleeding
+      * Care to **NOT** catch the **Common Bile Duct** when performing this maneuver
     * Acid-reducing procedure in the hemodynamically stable patient
     * *H. pylori* erradication postoperatively to reduce recurrent bleed
   * **Gastric Ulcers**
@@ -154,8 +183,11 @@ categories: stomach
 #### Obstruction
 
 * Least common complication of Gastric Ulcers
+* 10% lifetime risk in untreated Duodenal Ulcers
 * Can be due to acute inflammation and edema
+* Must rule out Malignancy
 * Nasogastric decompression with fluid and electrolyte replacement
+* IV PPI
 * **Surgical Therapy** indicated if
   * Persistent obstruction after **7 days** of non-operative management
   * Recurrent obstruction
