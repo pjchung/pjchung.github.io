@@ -5,18 +5,22 @@ date: 2014-10-13 12:00:00
 categories: stomach
 ---
 
-## Gastric and Duodenal Ulcers
+## Duodenal Ulcers
+
+* Duodenal Ulcers symptoms
+  * Sudden onset epigastric pain
+  * Gnawing
+  * Burning
+  * Stabbing
+
+
+## Gastric Ulcers
 
 * Non-operative management is the standard
 * Must rule-out malignancy when suspicious
 * Malignant disease tends to be located along Greater Curvature
 * Operative treatment in the setting of failed medical management
 * Gastric Ulcer symptoms worsen with food intake
-* Duodenal Ulcers symptoms
-  * Sudden onset epigastric pain
-  * Gnawing
-  * Burning
-  * Stabbing
 * Duodenal Ulcer symptoms alleviate with food intake
 
 #### Risk Factors
@@ -24,7 +28,9 @@ categories: stomach
 * *Helicobacter pylori* infection
   * Associated with 90 - 95% of Duodenal Ulcers
   * Associated with 70 - 90% of Gastric Ulcers
-  * Causes Chronic Antral Gastritis &#8594; increased acid and Gastrin production and reduced mucosal resistance to acid
+  * Causes **Chronic Antral Gastritis** &#8594; increased acid and Gastrin production and reduced mucosal resistance to acid
+  * Causes **Chronic Atrophic Gastritis** &#8594; gastric atrophy and intestinal metaplasia &#8594; **Gastric Cancer**
+  * Associated with **Mucosa-Associated Lymphoid Tissue (MALT) Lymphoma**
 * NSAIDs
   * 8-fold increased risk of Duodenal Ulcer formation
   * 40-fold increased risk of Gastric Ulcer formation
@@ -41,10 +47,15 @@ categories: stomach
   * Ulceration in distal Duodenum concerning for **Gastrinoma**
   * Duodenal ulcers appear as sharply demarcated, clean edges, with exposed submucosa
 * *H. pylori* Infection
-  * **Urea Breath Test**
-  * **Serologic Antibody Testing**
-  * Rapid Urease Testing via **Cod Liver Oil (CLO) Test**
-  * Direct **Histologic Examination**
+  * Invasive Tests
+    * Direct **Histologic Examination**
+    * Rapid Urease Testing via **Cod Liver Oil (CLO) Test** &#8594; performed on mucosal biopsy
+    * Cultures &#8594; research purposes or resistant strains
+  * Non-invasive Tests
+    * **Urea Breath Test**
+    * **Serologic Antibody Testing**
+      * Cannot differentiate between active and previous infection
+  
 * Fasting Serum Gastrin Levels
   * In setting of *H. pylori* negative and non-NSAID user with recurrent disease despite adequate medical therapy
   * To rule-out **Zollinger-Ellison Syndrome** (very rare)
@@ -53,24 +64,25 @@ categories: stomach
 
 * *H. pylori* Erradication
   * Triple Therapy (BID for each agent) for 14 days
-    * PPI (Omeprazole 20 mg or Lansoprazole 30 mg) + Amoxicillin 1000 mg + Clarithromycin 500 mg
-    * PPI (Omeprazole 20 mg or Lansoprazole 30 mg) + Metronidazole 500 mg + Clarithromycin 500 mg
+    * > PPI (Omeprazole 20 mg or Lansoprazole 30 mg) + Amoxicillin 1000 mg + Clarithromycin 500 mg
+    * > PPI (Omeprazole 20 mg or Lansoprazole 30 mg) + Metronidazole 500 mg + Clarithromycin 500 mg
   * Quadruple Therapy for 14 days
-    * PPI (Omeprazole 20 mg Daily or Lansoprazole 30 mg Daily) + Metronidazole 500 mg TID + Tetracycline 500 mg QID + Bismuth subsalicylate 525 mg QID
+    * > PPI (Omeprazole 20 mg Daily or Lansoprazole 30 mg Daily) + Metronidazole 500 mg TID + Tetracycline 500 mg QID + Bismuth subsalicylate 525 mg QID
 * NSAID Cessation
   * PPI in addition
 * Smoking Cessation
 * Follow-up Endoscopy
   * **3% of ulcers harbor malignancy**
-  
+* 6 weeks medical therapy &#8594; EGD &#8594; 6 weeks medical therapy &#8594; EGD &#8594; Surgery if not healed
+
 #### Surgical Therapy
 
-* Truncal Vagotomy with Antrectomy (Billroth I or II)
+* **Truncal Vagotomy with Antrectomy (Billroth I or II)**
   * Lowest recurrence rate (1 - 2%)
   * Highest postoperative morbidity (15 - 30%)
   * High mortality rate (1 - 2%)
-* Truncal Vagotomy with Drainage Procedure
-* Highly Selective Vagotomy (HSV)
+* **Truncal Vagotomy with Drainage Procedure**
+* **Highly Selective Vagotomy (HSV)**
   * Highest recurrence rate (5 - 15%)
   * Lowest postoperative morbidity (5 - 8%)
   * Lowest mortality rate
@@ -83,8 +95,8 @@ categories: stomach
   * Most common (60%)
   * Not thought to be related to acid hypersecretion
   * Associated with *H. pylori* infection however full etiology is unclear
-  * **Billroth I with Vagotomy** is procedure of choice
-  * **Billroth II with Vagotomy** or **Roux-en-Y** may be necessary due to anatomy
+  * **Billroth I** is procedure of choice
+  * **Billroth II** or **Roux-en-Y** may be necessary due to anatomy
 * **Type II**
   * **2** ulcers: along Incisura and in Duodenum
   * **Billroth I with Vagotomy** is preferred
@@ -101,7 +113,11 @@ categories: stomach
   * Not thought to be related to acid hypersecretion
   * Goal of resection to maximize length of healthy gastric tissue to enable gastroduodenostomy
     * **Pauchet Procedure**
+      * Distal gastrectomy with extension along the Lesser Curvature + Billroth I
+      * Ulcers 2 - 5 cm from GEJ
     * **Csendes Procedure**
+      * Subtotal gastrectomy + Roux-en-Y
+      * Ulcers &lt; 2 cm from GEJ
 * **Type V**
   * Can affect any portion of the stomach
   * Thought to be related to **NSAID** use
@@ -161,7 +177,12 @@ categories: stomach
   * Hematemesis
   * BRBPR
   * Age &ge; 60 years
-* Visible vessel or active bleeding confer greatest risk of rebleed &#8594; Endoscopic hemostasis
+* Risks for Rebleed on EGD **(Forrest Classification)**
+  * Active bleeding (100%)
+  * Nonbleeding visible vessel (~50%)
+  * Nonbleeding ulcer with overlying clot (30-35%)
+  * Oozing ulcer (10-27%)
+  * Clean-based ulcer (&lt;3%)
 * **Surgical Therapy** indications
   * Continued hemodynamic instability
   * &gt; 6 units pRBC over 24 hours
@@ -182,10 +203,17 @@ categories: stomach
 
 #### Obstruction
 
+* Most commonly caused by **Gastric Cancer**
 * Least common complication of Gastric Ulcers
 * 10% lifetime risk in untreated Duodenal Ulcers
 * Can be due to acute inflammation and edema
 * Must rule out Malignancy
+* Also consider **GIST** and **Primary Lymphomas**
+* Diagnosis
+  * EGD
+  * Will see *Hypochloremic Hypokalemic Alkalosis*
+  * Alkalotic urine (compensatory secretion of HCO3-)
+  * Paradoxic urinary acidosis (excrete H+ in exchange for K+ &#8594; conserves K+)
 * Nasogastric decompression with fluid and electrolyte replacement
 * IV PPI
 * **Surgical Therapy** indicated if
@@ -383,5 +411,13 @@ categories: stomach
     * Surgery **RARELY** indicated
 
 ## Gastric Polyps
+
+## Gastric Volvulus
+
+* Complication of Paraesophageal Hernia
+* **Borchardt Triad**
+  * Acute epigastric pain
+  * Violent retching
+  * Inability to pass an NG tube
 
 ## Morbid Obesity
