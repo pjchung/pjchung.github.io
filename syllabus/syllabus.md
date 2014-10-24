@@ -4,7 +4,7 @@ title:  "Syllabus"
 permalink: /syllabus/
 ---
 ### Section 1: The Esophagus
-* Esophageal Function Tests
+* **Esophageal Function Tests** &#x2713;
 * Gastroesophageal Reflux Disease
 * Endoluminal Approaches to Gastroesophageal Reflux Disease
 * The Management of Barrett's Esophagus
