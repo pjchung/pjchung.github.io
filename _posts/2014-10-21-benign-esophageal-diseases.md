@@ -31,29 +31,11 @@ categories: esophagus
 
 #### Hiatal Hernias
 
-* *see **[Hiatal Hernias]({% post_url 2014-08-31-paraesophageal-hernia %})***
+* *See **[Hiatal Hernias]({% post_url 2014-08-31-paraesophageal-hernia %})***
 
 #### Gastroesophageal Reflux Disease (GERD)
 
-* Laxity of the LES
-
-##### Savary-Miller Classification of Esophagitis
-
-| Grade   | Description |
-|---------|-------------|
-| Grade I       | Normal mucosa |
-| Grade II      | Discrete areas of erythema |
-| Grade III     | Circumferential erosions |
-| Grade IV      | GERD complications (ulcers, strictures, shortened esophagus, **Barrett Esophagus**) |
-
-##### Los Angeles Classification of Esophagitis
-
-| Grade   | Description |
-|---------|-------------|
-| Grade A       | &ge; 1 mucosal break &lt; 5 mm long that does not extend beyond the tops of 2 mucosal folds |
-| Grade B       | &ge; 1 mucosal break &gt; 5 mm long that does not extend beyond the tops of 2 mucosal folds |
-| Grade C       | &ge; 1 mucosal break that extends between the tops of &ge; 2 mucosal folds involving &lt; 75% of the esophageal circumference |
-| Grade D       | &ge; 1 mucosal break involving &ge; 75% of the esophageal circumference |
+* *See **[GERD]({% post_url 2014-10-26-gastroesophageal-reflux-disease %})***
 
 #### Hypertensive Lower Esophageal Sphincter
 
