@@ -10,7 +10,7 @@ categories: esophagus
 * **Motility (Peristalsis)**
 * **Lower Esophageal Sphincter**
   * Functionality depends on **total length**, **pressure**, and **intraabdominal length**
-  * **Esophageal Manometry**
+  * **[Esophageal Manometry]({% post_url 2014-10-24-esophageal-manometry %})**
     * Overall length of LES
     * Abdominal length of LES
     * Pressure of LES
@@ -31,7 +31,7 @@ categories: esophagus
 
 #### Hiatal Hernias
 
-* *see [Hiatal Hernias]({% post_url 2014-08-31-paraesophageal-hernia %})*
+* *see **[Hiatal Hernias]({% post_url 2014-08-31-paraesophageal-hernia %})***
 
 #### Gastroesophageal Reflux Disease (GERD)
 
@@ -85,7 +85,7 @@ categories: esophagus
     * Botulinum toxin &#8594; works 3 - 6 months
     * Pneumatic dilatation &#8594; can complicate subsequent surgical procedures
   * Surgical therapies
-    * **Heller Myotomy** with **Antireflux Procedure**
+    * **[Heller Myotomy]({% post_url 2014-10-24-heller-myotomy %})** with **[Antireflux Procedure]({% post_url 2014-10-24-antireflux-procedures %})**
     * Esophagectomy &#8594; in end-stage Achalasia
 
 #### Diffuse Esophageal Spasm
@@ -140,3 +140,8 @@ categories: esophagus
 #### Traction Diverticulum
 
 #### Epiphrenic (Pulsion) Diverticulum
+
+
+## *References*
+* **Carrott PW, Mann JA, Kozower BD:** Esophageal Function Testing. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Reddy RM, Meyers BF:** Esophagus. **Klingensmith ME** *The Washington Manual of Surgery.* ed 5 2008 **LWW Philadelphia**

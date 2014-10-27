@@ -8,16 +8,11 @@ categories: pancreas
 * Pancreatic pseudocyst is a collection of pancreatic secretions contained within a fibrous sac comprised of chronic inflammatory cells and fibroblasts in and adjacent to the pancreas contained by surrounding structures
 
 ## Atlanta Classification (1992)
-* Acute Interstitial Edematous Pancreatitis (IEP)
-  * Acute Peripancreatic Fluid Collections (APFC)
-    * Early (< 4 weeks)
-  * Pancreatic Pseudocysts
-    * Late (> 4 weeks)
-* Necrotizing Pancreatitis (NP)
-  * Postnecrotic Peripancreatic Fluid Collections (PNPFC)
-    * Early (< 4 weeks)
-  * Walled-off Pancreatic Necrosis (WOPN)
-    * Late (> 4 weeks)
+
+| Time Frame | Acute Interstitial Edematous Pancreatitis (IEP) | Necrotizing Pancreatitis (NP) |
+|------------|-------------------------------------------------|-------------------------------|
+| Early (&lt; 4 weeks) | **Acute Peripancreatic Fluid Collections (APFC)** | **Postnecrotic Peripancreatic Fluid Collections (PNPFC)** |
+| Late (&gt; 4 weeks)  | **Pancreatic Pseudocysts**                        | **Walled-off Pancreatic Necrosis (WOPN)**                 |
     
 ## Pathophysiology
 * Pancreatic duct disruption
@@ -94,8 +89,8 @@ categories: pancreas
 ## Management of Pancreatic Pseudocysts
 * Natural history is spontaneous resolution
 * Historically intervention recommended for
-  * > 6 cm
-  * > 6 weeks
+  * &gt; 6 cm
+  * &gt; 6 weeks
 * Currently watchful waiting is appropriate
 * Symptomatic pseudocysts warrant investigation
   * MRCP (or ERCP)
@@ -104,14 +99,14 @@ categories: pancreas
   * *ERCP-guided Transpapillary stent placement*
   * Both cause preferential drainage of pseudocyst into duodenum
 * Pseudocyst without commuincation with Main Pancreatic Duct (or failed ERCP)
-  * **Cystogastrostomy** (endoscopic, laparoscopic, or open)
+  * **[Cystogastrostomy]({% post_url 2014-10-26-cystgastrostomy %})** (endoscopic, laparoscopic, or open)
     * Stomach or duodenum must be densely adherent to pseudocyst
     * Anterior gastrostomy/duodenostomy performed
     * Firm, bulging surface on posterior wall represents cyst
     * Posterior gastrostomy made with energy device (cautery)
     * Cyst wall biopsy performed to rule out Cystic Neoplasm
     * Cysto-enteric anastomosis oversewn to ensure hemostasis
-  * **Cystoduodenostomy** (endoscopic, laparoscopic, or open)
+  * **[Cystoduodenostomy]({% post_url 2014-10-26-cystoduodenostomy %})** (endoscopic, laparoscopic, or open)
   * **Roux-en-Y Cystoenterostomies**
     * Drainge of pseudocyst not well adherent to stomach into jejunal limb
 * Pseudocyst with underlying duct pathology

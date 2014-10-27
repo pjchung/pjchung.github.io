@@ -11,7 +11,7 @@ categories: esophagus
 * Paraesophageal Hernias (PEH) = 5%
 * Increasing incidence in late-middle aged and older individuals (>50 years)
 
-### Classification
+## Classification
 
 | Type | Description | Pathophysiology |
 | ---- | ----------- | --------------- |
@@ -20,20 +20,23 @@ categories: esophagus
 | **Type III** | Most common | Combination of sliding hernias and Type II where both GEJ and cranial portion of stomach cross esophageal hiatus |
 | **Type IV** | Herniation of another abdominal organ (e.g. spleen, small intestine, colon) with stomach | Increased intraabdominal pressure in presence of large hiatal defect with laxity of gastrosplenic and gastrocolic ligaments |
 
-### Terminology
+## Terminology
 
 * **_Giant Paraesophageal Hernia_** = hiatal hernia in which 30% or more of stomach is herniated into the thorax
 * **_Parahiatal Hernia_** = herniation of stomach into thorax through a defect other than esophageal hiatus
 * **_Cameron Ulcer_** = ulceration due to repeated friction between engorged gastric mucosa and food as it passes through the hiatus
-* **_Borchardt's Triad_** = Described in 1904: (1) epigastric/chest pain, (2) retching without vomiting, (3) inability to pass nasogastric tube
-* **_Collis Gastroplasty_** = esophageal lengthening procedure
+* **_Borchardt's Triad_** = Described in 1904
+  1. Epigastric/chest pain
+  1. Retching without vomiting
+  1. Inability to pass nasogastric tube
+* **[Collis Gastroplasty]({% post_url 2014-10-26-collis-gastroplasty %})** = esophageal lengthening procedure
   * 52F to 54 bougie placed along lesser curvature
   * Endo GIA used to divide from greater curvature down to bougie and 5 cm from GEJ
   * Wedge of stomach removed by dividing along bougie to GEJ
   * Remaining fundus and body of stomach advanced cephalad to form fundoplication around newly constructed gastroplasty tube
   * Small but significant risk of staple-line leakage
 
-### Complications
+## Complications
 
 * **Gastric Volvulus**
   * Organoaxial rotation (most frequent)
@@ -45,7 +48,7 @@ categories: esophagus
   * Believed that acquired shortening of esophagus caused by repeated acid-related damage to lower esophageal wall
   * Subsequent healing and reinjury leads to fibrotic remodeling
   
-### Diagnosis
+## Diagnosis
 
 * CXR (incidental finding)
   * Shadow in posterior mediastinum
@@ -64,10 +67,10 @@ categories: esophagus
   * Intraluminal pressures
   * Lower esophageal sphincter function
   * Coordinated contractile movements of the esophagus
-  * Guides choice of _antireflux procedure_
+  * Guides choice of **[antireflux procedure]({% post_url 2014-10-24-antireflux-procedures %})**
 * CT scan
 
-### Therapy
+## Therapy
 
 * **Symptomatic hernia = surgical repair**
   * Gastric volvulus is an emergency
@@ -75,7 +78,7 @@ categories: esophagus
 * Risks outweigh benefits for repair of **asymptomatic** PEH in patients >65 years
 * \"Watchful waiting\" for asymptomatic/minimally symptomatic patients 
 
-### Surgical Principles
+#### Surgical Principles
 
 * Maintaining Crural Integrity
   * Prevent recurrence
@@ -100,7 +103,7 @@ categories: esophagus
 * Transabdominal approach
   * Less postoperative pain and morbidity compared to transthoracic approach
 
-### Surgical Anatomy
+#### Surgical Anatomy
 
 * Esophageal hiatus
   * Right crus = muscular fibers
@@ -124,7 +127,7 @@ categories: esophagus
 * Mesoesophagus
   * Present in posterior gap between esophagus, aorta, and diaphragmatic pillars
   * Prolonged inferiorly by **gastrophrenic ligament** which needs to be dissected when gastric fundus is mobilized
-  
-### See Also
 
-* Esophageal Manometry
+#### Related
+
+* *see [Benign Esophageal Diseases]({% post_url 2014-10-21-benign-esophageal-diseases %})

@@ -21,26 +21,28 @@ categories: large-bowel
 
 #### Hinchey Classification
 
+| Stage     | Description |
+|-----------|-------------|
 | Stage I   | Confined pericolic abscess |
 | Stage II  | Distant abscess (retroperitoneal or pelvic) |
 | Stage III | Purulent peritonitis caused by rupture of  pericoloic or pelvic absccess (noncommunicating) |
 | Stage IV  | Fecal peritonitis caused by free perforation of a diverticulum (communicating) |
 
-### Hinchey I
+#### Hinchey I
 * Drainage of smaller mesocolic absccesses can be definitive treatment
 * Elective resection of sigmoid to proximal rectum and colorectal anastomosis
   * Immunosuppressed
   * Transplant patient
   * Pelvic abscess drainage
 
-### Hinchey II
+#### Hinchey II
 * Laparoscopic irrigation and drainage
   * Laparoscopic irrigation of peritoneal cavity with 4 L warm saline solution
   * Place 2 penrose drains in vicinity of perforation
 
-### Hinchey III
+#### Hinchey III
 * Emergent operative management
-  * Sigmoid resection with colostomy and closure of distal rectum (**Hartmann\'s Procedure**)
+  * Sigmoid resection with colostomy and closure of distal rectum (**[Hartmann\'s Procedure]({% post_url 2014-10-26-hartmann-procedure%})**)
   * Creation of mucous fistula
   * Damage-control surgery
     * Unstable patient on pressors
@@ -53,7 +55,7 @@ categories: large-bowel
     * Well-vascularized end of colon
     * Tension-free anastomosis
   
-### Hinchey IV
+#### Hinchey IV
 * Emergent operative management
   * Damage-control surgery
   * Hartmann\'s Procedure
@@ -70,6 +72,6 @@ categories: large-bowel
     * Mesenteric Angiography
     * Triple-phase CTA
     * Radionuclide Scanning
-* Subtotal colectomy
+* **[Subtotal colectomy]({% post_url 2014-10-26-subtotal-colectomy %})**
   * High rebleeding rate (up to 42%)
   * Reserved for hemodynamically unstable patient without localization of bleeding

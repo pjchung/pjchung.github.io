@@ -46,3 +46,9 @@ categories: stomach
   * Junction of the Cystic Duct and CBD
   * Junction of the 2nd and 3rd portion of the Duodenum
   * Junction of the neck and body of the Pancreas
+  
+## *References*
+* **Yoon SS, Park DJ:** Gastric Adenocarcinoma. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Raut CP, Pawlik TM:** Gastrointestinal Stromal Tumors. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Mazeh H, Chen H:** Zollinger-Ellison Syndrome. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Dharmarajan S, Halpin VJ, Hawkins WG:** Stomach. **Klingensmith ME** *The Washington Manual of Surgery.* ed 5 2008 **LWW Philadelphia**

@@ -55,6 +55,7 @@ categories: hepatobiliary
   * Radiopaque gallstone
     * Rare
   * **Rigler\'s Triad**
+    * ![Rigler Sign](/assets/2014-08-11-gallstone-ileus/rigler_sign.png)
     * Distended loops of small bowel
     * Pneumobilia
     * Radiopaque stone in right lower quadrant
@@ -77,7 +78,7 @@ categories: hepatobiliary
   * Definitive biliary procedure that is concomitant to management of small bowel obstruction
   * Associated with higher morbidity and mortality versus enterolithotomy
   * **Most fistulas (up to 80%) close spontaneously**
-* Cholecystectomy
+* **[Cholecystectomy]({% post_url 2014-10-26-cholecystectomy %})**
   * Avoided in setting of hemodynamic instability
   * Liberal use of **Intraoperative Cholangiography**
     1. Many patients will have a common duct stone
@@ -86,7 +87,7 @@ categories: hepatobiliary
 
 #### Operative Procedure
 
-* Conventional **Enterolithotomy**
+* Conventional **[Enterolithotomy]({% post_url 2014-10-26-enterolithotomy %})**
   * Gallstone milked backwards
   * Proximal longitudinal enterotomy made
   * Gallstone removed

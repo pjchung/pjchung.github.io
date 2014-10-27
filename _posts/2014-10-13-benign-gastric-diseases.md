@@ -13,7 +13,6 @@ categories: stomach
   * Burning
   * Stabbing
 
-
 ## Gastric Ulcers
 
 * Non-operative management is the standard
@@ -227,99 +226,17 @@ categories: stomach
 #### Vagotomies
 
 * Goal is the Parasympathetic denervation of the acid-producing stomach tissue
-
-![vagotomies](/assets/2014-10-13-benign-gastric-diseases/vagotomies.png)
-
-* **Truncal Vagotomy**
-  * Left Vagus Nerve &#8594; Anterior Trunk
-  * Right Vagus Nerve &#8594; Posterior Trunk (tends to be approximately 1 cm from posterior stomach wall)
-  * Divided at the level of the Distal Esophagus (approximately 4 cm from GEJ)
-  * Requires mobilization of approximately 5 - 6 cm of esophagus for adequate exposure to identify the nerves
-  * **Criminal Nerve of Grassi** is the first branch off the Posterior Trunk
-    * Separation can be proximal to the Celiac Division of the Posterior Trunk
-    * Failure to divide can result in recurrence (approximately 2/3 of ulcer recurrences are due to incomplete vagotomy)
-  * Requires a concommitant **Drainage Procedure**
-
-* **Selective Vagotomy**
-  * Spares Posterior branches that innervate
-    * Pancreas
-    * Small Intestines
-  * Spares Anterior branches that innervate
-    * Liver
-    * Gallbladder
-  * Decreases morbidity associated with Vagotomy such as Diarrhea and Dumping
-  * Used for **Refractory Duodenal Ulcers**
-  * Requres a concommitant **Drainage procedure**
-  
-* **Highly Selective (Parietal Cell) Vagotomy**
-  * Preserves **Nerves of Latarjet** that innervate and provide motor function to the Pylorus
-  * Does **NOT** require a concommitant **Drainage procedure**
+* *See **[Vagotomies]({% post_url 2014-10-26-vagotomies %})***
   
 #### Drainage Procedures
 
-![drainage-procedures](/assets/2014-10-13-benign-gastric-diseases/drainage_procedures.png)
-
-* **Heineke-Mikulicz Pyloroplasty**
-  * Longitudinal incision created through the Pylorus
-  * Incision is closed in a transverse fashion
-  
-* **Finney Pyloroplasty**
-  * *See diagram*
-
-* **Jaboulay Gastroduodenostomy**
-  * *See diagram*
+* Goal is to avoid outlet obstruction secondary to stricture
+* *See **[Drainage Procedures]({% post_url 2014-10-26-drainage-procedures %})***
 
 #### Antrectomy
 
 * Goal is to remove Antral glands containing G Cells
-* Avoid **Total Gastrectomy** whenever possible
-* Proximal Margin
-  * Along the Antrum-Body physiologic junction when possible (Type I, II, III)
-  * Removal of proximal ulcer while extending incision to leave more distal tissue as in **Pauchet Procedure** (Type IV)
-  * **Subtotal Gastrectomy with Roux-en-Y** necessary for Gastric Ulcers within 2 cm of GEJ (Type IV)
-* Distal Margin
-  * Transection of healthy Duodenal tissue just distal to Pylorus
-  * Posterior Duodenal Ulcer closely associated with Pancreas
-    * Leave ulcer base while performing the Antrectomy as usual
-    * With the source of inflammation removed the area heals without affecting the anastomosis
-
-![billroth_i](/assets/2014-10-13-benign-gastric-diseases/billroth_i.png)
-
-* **Billroth I (Gastroduodenostomy)**
-  * Preferred reconstruction for most Benign Gastric Diseases
-  * **Angle of Sorrow** &#8594; point where the reconstructed Lesser Curvature meets the Gastroduodenal suture line
-    * Breakdown avoided by having healthy well-vascularized tissue and a tension-free anastomosis
-    * **Kocher's maneuver** can be helpful to provide a tension-free anastomosis
-  * Hand-swen anastomosis
-  * End-to-end Anastomosis Stapler (EEA) placed through anterior gastrostomy
-
-![billroth_ii](/assets/2014-10-13-benign-gastric-diseases/billroth_ii.png)
-
-* **Billroth II (Gastrojejunostomy)**
-  * Reserved for patients in whom tension-free Billroth I cannot be performed
-  * **Reichel-Polya (Polya) Modification** &#8594; gastrojejunostomy incorporating entire length of gastric division
-  * **Hofmeister-Finsterer (Finsterer) Modification** &#8594; gastrojejunostomy incorporating part of the gastric division
-  * **Afferent Limb** should be **&lt; 20 cm**
-    * Prevents **Afferent Limb Syndrome**
-    * Mobilization of the Ligament of Treitz can be performed if necessary to provide a shorter limb
-  * **Retrogastric** anastomosis facilitates drainage of the stomach
-  * **Retrocolic** anastomoosis thought to prevent kinking of the **Afferent** and **Efferent** limbs
-    * ![retrocolic_gastrojejunostomy_1](/assets/2014-10-13-benign-gastric-diseases/retrocolic_gastrojejunostomy_1.png)
-    * ![retrocolic_gastrojejunostomy_2](/assets/2014-10-13-benign-gastric-diseases/retrocolic_gastrojejunostomy_2.png)
-    * ![retrocolic_gastrojejunostomy_3](/assets/2014-10-13-benign-gastric-diseases/retrocolic_gastrojejunostomy_3.png)
-    * ![retrocolic_gastrojejunostomy_4](/assets/2014-10-13-benign-gastric-diseases/retrocolic_gastrojejunostomy_4.png)
-    * *Townsend and Evers Atlas of General Surgical Techniques, Chapter 32: Gastrojejunostomy*
-  * Duodenal stump can potentially result in a **Stump Blowout**
-    * 1 - 3%  postoperative leak rate
-    * Usually occurs POD 6 - 10
-    * Dissection of the Duodenal Stump away from the Pancreas for closure should be **AVOIDED**
-
-![roux_en_y](/assets/2014-10-13-benign-gastric-diseases/roux_en_y.png)
-
-* **Roux-en-Y Gastrojejunostomy**
-  * Roux limb **&ge; 40 cm** helps prevent Bile Reflux
-  * **Retrocolic** and **Antecolic** Roux limbs shown to have similar outcomes
-  * Superior to Billroth II in terms of subjective symptoms and Bile Reflux
+* *See **[Antrectomies]({% post_url 2014-10-26-antrectomies %})***
 
 #### Postgastrectomy Syndromes
 
@@ -421,3 +338,8 @@ categories: stomach
   * Inability to pass an NG tube
 
 ## Morbid Obesity
+
+## *References*
+* **Abdel-Misih RZ, Larson JD:** The Management of Benign Gastric Ulcer. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Lamond KG, Lidor AO:** Morbid Obesity. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Dharmarajan S, Halpin VJ, Hawkins WG:** Stomach. **Klingensmith ME** *The Washington Manual of Surgery.* ed 5 2008 **LWW Philadelphia**
