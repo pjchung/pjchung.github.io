@@ -4,13 +4,17 @@ title: Categories
 permalink: /categories/
 ---
 
-{% assign sorted_categories = (site.categories | sort:0) %}
-{% for category in sorted_categories %}
-#### {{category[0] | capitalize }}
-
-{% assign sorted_catposts = (category[1] | sort: 'title', 'last') %}
-{% for catpost in sorted_catposts %}
-
-* [{{catpost.title}}]({{catpost.url}})
-{% endfor %}
-{% endfor %}
+<table style="table-layout:fixed; width:100%">
+  <tbody>
+    <thead>
+      <tr>
+        <td style="width:30%">Categories</td>
+        <td style="width:70%">Title</td>
+      </tr>
+    </thead>
+    <tr ng-repeat="item in search | filter: searchbox">
+      <td>{( item.category )}</td>
+      <td><a ng-href="{( item.href )}">{( item.title )}</a></td>
+    </tr>
+  </tbody>
+</table>

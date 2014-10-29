@@ -17,3 +17,11 @@ pjchungApp.controller('SearchCtrl', function($scope, $http) {
     $scope.search = results.data;
   });
 });
+
+// Gets the search.json file and attaches it to SearchCtrl's search model
+pjchungApp.controller('CategorySearchCtrl', function($scope, $http) {
+  $http.get('/category_search.json')
+  .then(function(results) {
+    $scope.search = results.data;
+  });
+});

@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<div class="row">
-  <div class="12-large columns">
+<br/>
+<div class="row" ng-controller="CategorySearchCtrl">
+  <div class="large-12 columns">
+    <input type="search" ng-model="searchbox" placeholder="Search">
     {{ content }}
   </div>
 </div>  
