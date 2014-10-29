@@ -1,5 +1,5 @@
 (function() {
-  var searchApp = angular.module("searchApp", []);
+  var searchApp = angular.module("searchApp", ['mm.foundation']);
   
   searchApp.config([
     // Use '{(' and ')}' to avoid conflict with liquid tags
