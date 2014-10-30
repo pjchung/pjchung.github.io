@@ -30,21 +30,53 @@ categories: esophagus
 
 #### Savary-Miller Classification of Esophagitis
 
-| Grade   | Description |
-|---------|-------------|
-| Grade I       | Normal mucosa |
-| Grade II      | Discrete areas of erythema |
-| Grade III     | Circumferential erosions |
-| Grade IV      | GERD complications (ulcers, strictures, shortened esophagus, **Barrett Esophagus**) |
+<table>
+  <thead>
+    <th style="width:25%">Grade</th>
+    <th style="width:75%">Description</th>
+  </thead>
+  <tr>
+    <td>Grade I</td>
+    <td>Normal mucosa</td>
+  </tr>
+  <tr>
+    <td>Grade II</td>
+    <td>Discrete areas of erythema</td>
+  </tr>
+  <tr>
+    <td>Grade III</td>
+    <td>Circumferential erosions</td>
+  </tr>
+  <tr>
+    <td>Grade IV</td>
+    <td>GERD complications (ulcers, strictures, shortened esophagus, <b>Barrett Esophagus</b>)</td>
+  </tr>
+</table>
 
 #### Los Angeles Classification of Esophagitis
 
-| Grade   | Description |
-|---------|-------------|
-| Grade A       | &ge; 1 mucosal break &lt; 5 mm long that does not extend beyond the tops of 2 mucosal folds |
-| Grade B       | &ge; 1 mucosal break &gt; 5 mm long that does not extend beyond the tops of 2 mucosal folds |
-| Grade C       | &ge; 1 mucosal break that extends between the tops of &ge; 2 mucosal folds involving &lt; 75% of the esophageal circumference |
-| Grade D       | &ge; 1 mucosal break involving &ge; 75% of the esophageal circumference |
+<table>
+  <thead>
+    <th style="width:25%">Grade</th>
+    <th style="width:75%">Description</th>
+  </thead>
+  <tr>
+    <td>Grade A</td>
+    <td>&ge; 1 mucosal break &lt; 5 mm long that does not extend beyond the tops of 2 mucosal folds</td>
+  </tr>
+  <tr>
+    <td>Grade B</td>
+    <td>&ge; 1 mucosal break &gt; 5 mm long that does not extend beyond the tops of 2 mucosal folds</td>
+  </tr>
+  <tr>
+    <td>Grade C</td>
+    <td>&ge; 1 mucosal break that extends between the tops of &ge; 2 mucosal folds involving &lt; 75% of the esophageal circumference</td>
+  </tr>
+  <tr>
+    <td>Grade D</td>
+    <td>&ge; 1 mucosal break involving &ge; 75% of the esophageal circumference</td>
+  </tr>
+</table>
 
 ## Contraindications to Surgical Therapy
 
