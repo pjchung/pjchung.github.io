@@ -2,7 +2,7 @@
 layout: post
 title:  "Respiratory System"
 date:   2014-07-17 21:00:00
-categories: critical-care respiratory-system
+categories: critical-care
 ---
 
 ### Questions

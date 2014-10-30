@@ -2,7 +2,7 @@
 layout: post
 title:  "Acid Base Disorders"
 date:   2014-07-12 21:00:00
-categories: critical-care acid-base
+categories: critical-care
 ---
 
 ## Hydrogen Ion Concentration and pH

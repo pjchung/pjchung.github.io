@@ -6,16 +6,18 @@ layout: default
   <div class="large-12 columns">
     <input type="search" ng-model="searchbox" placeholder="Search">
     <table style="table-layout:fixed; width:100%">
+    <tbody>
       <thead>
         <tr>
-          <th>Posts</th>
+          <td style="width:30%">Categories</td>
+          <td style="width:70%">Title</td>
         </tr>
       </thead>
-      <tbody>
-        <tr ng-repeat="item in search | filter: searchbox | orderBy: 'title'">
-          <td><a ng-href="{( item.href )}">{( item.title )}</a></td>
-        </tr>
-      </tbody>
-    </table>
+      <tr ng-repeat="item in search | filter: searchbox">
+        <td ng-repeat="category in item.category">{( category )}</td>
+        <td><a ng-href="{( item.href )}">{( item.title )}</a></td>
+      </tr>
+    </tbody>
+  </table>
   </div>
 </div>

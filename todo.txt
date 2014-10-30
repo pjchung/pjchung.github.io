@@ -1,0 +1,3 @@
+- Answers to questions must be hidden until clicked on
+- Change the CSS for the site
+- Add snippets to search results to guide user search

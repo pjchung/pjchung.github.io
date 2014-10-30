@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: questions
 title: "Questions"
 permalink: /questions/
 ---

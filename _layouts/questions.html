@@ -1,22 +1,17 @@
-<!DOCTYPE html>
-<html ng-app="questionsApp">
+---
+layout: default
+---
+</br>
 
-  {% include questions-head.html %}
+<div class="row" ng-controller="QuestionsCtrl">
+  <div class="large-12 columns">
+    {{ content }}
+  </div>
+</div>
 
-  <body>
-    
-    {% include header.html %}
-    
-    </br>
-  
-    <div class="row" ng-controller="QuestionsCtrl">
-      <div class="large-12 columns">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-    {% include jscripts.html %}
-  </body>
-</html>
+<div class="row">
+  <hr>
+  <div class="12-large columns">
+    {% include comments.html %}
+  </div>
+</div>

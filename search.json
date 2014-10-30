@@ -1,15 +1,22 @@
 ---
 ---
-[ {% for post in site.posts %}
+[
+{% assign sorted_categories = (site.categories | sort:0) %}
+{% for category in sorted_categories %}
+
+{% assign sorted_catposts = (category[1] | sort: 'title', 'last') %}
+{% for catpost in sorted_catposts %}
   {
-    "title"    : "{{ post.title }}",
-    "href"     : "{{ post.url }}",
-    "category" : [{% for category in post.categories %} "{{category}}" {% unless forloop.last %},{% endunless %} {% endfor %}],
+    "title"    : "{{ catpost.title }}",
+    "href"     : "{{ catpost.url }}",
+    "category" : [{% for category in catpost.categories %} "{{category | capitalize}}" {% unless forloop.last %},{% endunless %} {% endfor %}],
     "date"     : {
-      "day"    : "{{ post.date | date: "%d" }}",
-      "month"  : "{{ post.date | date: "%B" }}",
-      "year"   : "{{ post.date | date: "%Y" }}"
+      "day"    : "{{ catpost.date | date: "%d" }}",
+      "month"  : "{{ catpost.date | date: "%B" }}",
+      "year"   : "{{ catpost.date | date: "%Y" }}"
     },
-    "content"  : "{{ post.content | strip_html | remove: '"' | split: ' ' | strip | join: ' ' }}"
-  }{% unless forloop.last %},{% endunless %}{% endfor %}
+    "content"  : "{{ catpost.content | strip_html | remove: '"' | split: ' ' | strip | join: ' ' }}"
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}{% unless forloop.last %},{% endunless %}
+{% endfor %}
 ]
