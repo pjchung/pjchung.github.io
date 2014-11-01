@@ -105,3 +105,6 @@ categories: hepatobiliary
 * Occur in 5% of postoperative patients
   * Usually within 6 months of first presentation
 * 80% resolve spontaneously
+
+## *References*
+* **Bailey EH, Sharp KW:** Gallstone Ileus. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
