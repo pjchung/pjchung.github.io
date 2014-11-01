@@ -3,10 +3,14 @@
 
 //$primary-color: #5592BB;
 //$primary-color-hover: #305870;
-$primary-color: #00A0B0;
-$primary-color-hover: #3D9199;
-$secondary-color: #7F0200;
-$secondary-color-hover: #993F3D;
+//$primary-color: #00A0B0;
+//$primary-color-hover: #3D9199;
+$primary-color: #CC1423;
+$primary-color-hover: #993D44;
+//$secondary-color: #7F0200;
+//$secondary-color-hover: #993F3D;
+$secondary-color: #086FA5;
+$secondary-color-hover: #1C658C;
 $tertiary-color: #CC333F;
 $tertiary-color-hover: #993D44;
 
@@ -29,23 +33,19 @@ h1 {
   //font-size: 3em;
 }
 
-h2, h3, h4 {
-  //font-weight: 300;
-}
-
 h2 {
+  font-weight: 700;
   color: $secondary-color;
-  //font-size: 2.25em;
 }
 
 h3 {
+  font-weight: 300;
   color: $secondary-color;
-  //font-size: 1.75em;
 }
 
 h4 {
+  font-weight: 300;
   color: $tertiary-color;
-  //font-size: 1.5em;
 }
 
 h4 a {
@@ -62,7 +62,12 @@ h4 a:hover {
   margin: 0 1em 0 1em;
 }
 
-/* Taken from Angular Foundation demo.css */
+// Post meta class - used for the Date, Author information under Post
+.meta {
+  color: $secondary-color;
+}
+
+/* Adapted from Angular Foundation demo.css */
 // $topbar-background-color: #5592BB;
 // $topbar-hover-color: #4783A9;
 // $topbar-shadow-dark: #266784;

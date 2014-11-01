@@ -6,3 +6,7 @@ Posts to update:
 - Malignant Liver Tumors
 - Pancreatic Pseudocysts
 - Acid-Base Disorders
+
+
+Style points:
+- Only use h1, h2, and h4
