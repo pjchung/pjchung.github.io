@@ -25,7 +25,7 @@ categories: esophagus
     <td>Incresed intraabdominal pressure (e.g. obesity, pregnancy, constipation)</td>
   </tr>
   <tr>
-    <td>Type II<br/>(True PEHs)</b></td>
+    <td><b>Type II<br/>(True PEHs)</b></td>
     <td>Rarest</td>
     <td>Intrathoracic migration of fundus of stuomach alongside esophagus with GEJ in abdomen below diaphragm</td>
   </tr>
