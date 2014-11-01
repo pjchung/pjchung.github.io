@@ -1,6 +1,15 @@
 @import "foundation";
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,700,300);
 
+//$primary-color: #5592BB;
+//$primary-color-hover: #305870;
+$primary-color: #00A0B0;
+$primary-color-hover: #3D9199;
+$secondary-color: #7F0200;
+$secondary-color-hover: #993F3D;
+$tertiary-color: #CC333F;
+$tertiary-color-hover: #993D44;
+
 * {
   margin: 0;
   padding: 0;
@@ -14,16 +23,39 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-h1, h3 {
+h1 {
   font-weight: 700;
+  color: $primary-color;
+  font-size: 3em;
 }
 
-h2, h4 {
+h2, h3, h4 {
   font-weight: 300;
+}
+
+h2 {
+  color: $secondary-color;
+  font-size: 2.25em;
+}
+
+h3 {
+  color: $secondary-color;
+  font-size: 1.75em;
+}
+
+h4 {
+  color: $tertiary-color;
+  font-size: 1.5em;
 }
 
 h4 a {
   font-weight: 300;
+  color: $tertiary-color;
+}
+
+h4 a:hover {
+  font-weight: 300;
+  color: $tertiary-color-hover;
 }
 
 .post-title {
@@ -51,11 +83,11 @@ $topbar-hover-color: transparent;
   font-size: 24px;
   font-family: "Open Sans",sans-serif;
   font-weight: 700;
-  color: #5592BB;
+  color: $primary-color;
 }
 
 .top-bar .name h1 a:hover {
-  color: #305870;
+  color: $primary-color-hover;
 }
 
 // Menu
@@ -64,11 +96,11 @@ $topbar-hover-color: transparent;
 }
 
 .top-bar .toggle-topbar.menu-icon a {
-  color: #5592BB;
+  color: $primary-color;
 }
 
 .top-bar .toggle-topbar.menu-icon a:hover {
-  color: #305870;
+  color: $primary-color-hover;
 }
 
 .top-bar-section li a:not(.button):hover {
@@ -94,7 +126,7 @@ $topbar-hover-color: transparent;
 .top-bar-section ul li>a {
   font-size: 16px;
   font-family: "Open Sans",sans-serif;
-  color: #5592BB;
+  color: $primary-color;
 }
 
 .top-bar-section ul {
@@ -107,7 +139,7 @@ $topbar-hover-color: transparent;
 
 .top-bar-section ul li:hover:not(.has-form)>a {
   background: $topbar-background-color;
-  color: #305870;
+  color: $primary-color-hover;
 }
 
 .top-bar-section {
@@ -124,7 +156,7 @@ $topbar-hover-color: transparent;
 
 .top-bar.expanded .toggle-topbar a {
   //color: #FFF;
-  color: #5592BB;
+  color: $primary-color;
 }
 
 .top-bar.expanded .toggle-topbar a::after {

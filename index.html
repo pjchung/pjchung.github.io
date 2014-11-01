@@ -5,13 +5,13 @@ layout: default
 <div class="row">
   <div class="large-12 columns">
     <h1>Surgery Notes</h1>
-    <ul>
+    <ul style="list-style-type:none;padding:0;margin:0">
       {% for post in site.posts %}
       <li>
-        <sub><span>{{ post.date | date: "%b %-d, %Y" }}</span></sub>
-        <br/>
         <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
+      <br/>
       {% endfor %}
     </ul>
   </div> 
