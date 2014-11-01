@@ -13,12 +13,33 @@ categories: esophagus
 
 ## Classification
 
-| Type | Description | Pathophysiology |
-| ---- | ----------- | --------------- |
-| **Type I (Sliding Hiatal Hernias)** | Migration of GEJ above diaphragm due to laxity of phrenoesophageal ligament with creation of peritoneal sac | Incresed intraabdominal pressure (e.g. obesity, pregnancy, constipation) |
-| **Type II (True PEHs)** | Rarest | Intrathoracic migration of fundus of stuomach alongside esophagus with GEJ in abdomen below diaphragm |
-| **Type III** | Most common | Combination of sliding hernias and Type II where both GEJ and cranial portion of stomach cross esophageal hiatus |
-| **Type IV** | Herniation of another abdominal organ (e.g. spleen, small intestine, colon) with stomach | Increased intraabdominal pressure in presence of large hiatal defect with laxity of gastrosplenic and gastrocolic ligaments |
+<table>
+  <thead>
+    <th style="width:20%">Type</th>
+    <th style="width:40%">Description</th>
+    <th style="width:40%">Pathophysiology</th>
+  </thead>
+  <tr>
+    <td><b>Type I<br/>(Sliding Hiatal Hernias)</b></td>
+    <td>Migration of GEJ above diaphragm due to laxity of <b>phrenoesophageal ligament</b> with creation of peritoneal sac</td>
+    <td>Incresed intraabdominal pressure (e.g. obesity, pregnancy, constipation)</td>
+  </tr>
+  <tr>
+    <td>Type II<br/>(True PEHs)</b></td>
+    <td>Rarest</td>
+    <td>Intrathoracic migration of fundus of stuomach alongside esophagus with GEJ in abdomen below diaphragm</td>
+  </tr>
+  <tr>
+    <td><b>Type III</b></td>
+    <td>Most common</td>
+    <td>Combination of sliding hernias and Type II where both GEJ and cranial portion of stomach cross esophageal hiatus</td>
+  </tr>
+  <tr>
+    <td><b>Type IV</b></td>
+    <td>Herniation of another abdominal organ (e.g. spleen, small intestine, colon) with stomach</td>
+    <td>Increased intraabdominal pressure in presence of large hiatal defect with laxity of gastrosplenic and gastrocolic ligaments</td>
+  </tr>
+</table>
 
 ## Terminology
 
@@ -131,3 +152,6 @@ categories: esophagus
 #### Related
 
 * *see [Benign Esophageal Diseases]({% post_url 2014-10-21-benign-esophageal-diseases %})
+
+## *References*
+* **Mungo B, Molena D, Brock MV:** Paraesophageal Hernia. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
