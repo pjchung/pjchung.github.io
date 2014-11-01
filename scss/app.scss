@@ -1,39 +1,121 @@
 @import "foundation";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,700,300);
 
-// Or selectively include components
-// @import
-//   "foundation/components/accordion",
-//   "foundation/components/alert-boxes",
-//   "foundation/components/block-grid",
-//   "foundation/components/breadcrumbs",
-//   "foundation/components/button-groups",
-//   "foundation/components/buttons",
-//   "foundation/components/clearing",
-//   "foundation/components/dropdown",
-//   "foundation/components/dropdown-buttons",
-//   "foundation/components/flex-video",
-//   "foundation/components/forms",
-//   "foundation/components/grid",
-//   "foundation/components/inline-lists",
-//   "foundation/components/joyride",
-//   "foundation/components/keystrokes",
-//   "foundation/components/labels",
-//   "foundation/components/magellan",
-//   "foundation/components/orbit",
-//   "foundation/components/pagination",
-//   "foundation/components/panels",
-//   "foundation/components/pricing-tables",
-//   "foundation/components/progress-bars",
-//   "foundation/components/reveal",
-//   "foundation/components/side-nav",
-//   "foundation/components/split-buttons",
-//   "foundation/components/sub-nav",
-//   "foundation/components/switch",
-//   "foundation/components/tables",
-//   "foundation/components/tabs",
-//   "foundation/components/thumbs",
-//   "foundation/components/tooltips",
-//   "foundation/components/top-bar",
-//   "foundation/components/type",
-//   "foundation/components/offcanvas",
-//   "foundation/components/visibility";
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  background-image: url('/assets/site/paper_fibers.png');
+  background-repeat: repeat;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h3 {
+  font-weight: 700;
+}
+
+h2, h4 {
+  font-weight: 300;
+}
+
+/* Taken from Angular Foundation demo.css */
+// $topbar-background-color: #5592BB;
+// $topbar-hover-color: #4783A9;
+// $topbar-shadow-dark: #266784;
+// $topbar-shadow-light: #A9C2D0;
+$topbar-background-color: transparent;
+$topbar-hover-color: transparent;
+
+.top-bar { 
+  // box-shadow: 0 1px $topbar-shadow-dark, 0 4px $topbar-shadow-light;
+}
+
+.top-bar, .top-bar-section li a:not(.button) {
+  background-color: $topbar-background-color;
+}
+
+// Title text
+.top-bar .name h1 a {
+  font-size: 24px;
+  font-family: "Open Sans",sans-serif;
+  font-weight: 700;
+  color: #5592BB;
+}
+
+.top-bar .name h1 a:hover {
+  color: #305870;
+}
+
+// Menu
+.top-bar .toggle-topbar.menu-icon a {
+  color: #5592BB;
+}
+
+.top-bar .toggle-topbar.menu-icon a:hover {
+  color: #305870;
+}
+
+.top-bar-section li a:not(.button):hover {
+  background-color: $topbar-hover-color;
+}
+
+.top-bar-section ul li:hover>a {
+  background-color: $topbar-background-color;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button){
+  background-color: $topbar-background-color;
+}
+
+.top-bar-section li.has-dropdown.not-click>a:not(.button){
+  background-color: $topbar-hover-color;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+  background-color: $topbar-hover-color;
+}
+
+.top-bar-section ul li>a {
+  font-size: 16px;
+  font-family: "Open Sans",sans-serif;
+  color: #5592BB;
+}
+
+.top-bar-section ul {
+  background: $topbar-background-color;
+}
+
+.top-bar-section ul li {
+  background: $topbar-background-color;
+}
+
+.top-bar-section ul li:hover:not(.has-form)>a {
+  background: $topbar-background-color;
+  color: #305870;
+}
+
+.top-bar-section {
+  padding-top: 0 !important;
+}
+
+.off-canvas-wrap section {
+  padding-top: 0 !important;
+}
+
+.top-bar.expanded .title-area {
+  background: $topbar-hover-color;
+}
+
+.top-bar.expanded .toggle-topbar a {
+  //color: #FFF;
+  color: #5592BB;
+}
+
+.top-bar.expanded .toggle-topbar a::after {
+  -webkit-box-shadow: 1px 10px 1px 1px #FFF,1px 16px 1px 1px #FFF,1px 22px 1px 1px #FFF;
+  box-shadow: 0 10px 0 1px #FFF,0 16px 0 1px #FFF,0 22px 0 1px #FFF;
+}
