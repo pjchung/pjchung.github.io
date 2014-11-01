@@ -22,6 +22,10 @@ h2, h4 {
   font-weight: 300;
 }
 
+.post-title {
+  margin: 0 1em 0 1em;
+}
+
 /* Taken from Angular Foundation demo.css */
 // $topbar-background-color: #5592BB;
 // $topbar-hover-color: #4783A9;
@@ -51,6 +55,10 @@ $topbar-hover-color: transparent;
 }
 
 // Menu
+.top-bar .toggle-topbar.menu-icon {
+  margin-right: -24px;
+}
+
 .top-bar .toggle-topbar.menu-icon a {
   color: #5592BB;
 }

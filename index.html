@@ -2,23 +2,17 @@
 layout: default
 ---
 
-<div class="home">
-
-  <div class="row">
-    <div class="large-12 columns">
-      
-      <h1>Outlines</h1>
-      
-      <ul>
-        {% for post in site.posts %}
-        <li>
-          <sub><span>{{ post.date | date: "%b %-d, %Y" }}</span></sub>
-          <br/>
-          <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-        </li>
-        {% endfor %}
-      </ul>
-     
-    </div> 
-  </div>
+<div class="row">
+  <div class="large-12 columns">
+    <h1>Surgery Notes</h1>
+    <ul>
+      {% for post in site.posts %}
+      <li>
+        <sub><span>{{ post.date | date: "%b %-d, %Y" }}</span></sub>
+        <br/>
+        <h4><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+      </li>
+      {% endfor %}
+    </ul>
+  </div> 
 </div>
