@@ -4,17 +4,30 @@ title:  "Pancreatic Pseudocysts"
 date:   2014-06-23 01:00:00
 categories: pancreas
 ---
-## Definition
+## Management of Pancreatic Pseudocysts
 * Pancreatic pseudocyst is a collection of pancreatic secretions contained within a fibrous sac comprised of chronic inflammatory cells and fibroblasts in and adjacent to the pancreas contained by surrounding structures
 
-## Atlanta Classification (1992)
+#### Atlanta Classification (1992)
 
-| Time Frame | Acute Interstitial Edematous Pancreatitis (IEP) | Necrotizing Pancreatitis (NP) |
-|------------|-------------------------------------------------|-------------------------------|
-| Early (&lt; 4 weeks) | **Acute Peripancreatic Fluid Collections (APFC)** | **Postnecrotic Peripancreatic Fluid Collections (PNPFC)** |
-| Late (&gt; 4 weeks)  | **Pancreatic Pseudocysts**                        | **Walled-off Pancreatic Necrosis (WOPN)**                 |
-    
-## Pathophysiology
+<table>
+  <thead>
+    <td style="width:20%">Time Frame</td>
+    <td style="width:40%">Acute Interstitial Edematous Pancreatitis (IEP)</td>
+    <td style="width:40%">Necrotizing Pancreatitis (NP)</td>
+  </thead>
+  <tr>
+    <td>Early <br/>(&lt; 4 weeks)</td>
+    <td>Acute Peripancreatic Fluid Collections (APFC)</td>
+    <td>Postnecrotic Peripancreatic Fluid Collections (PNPFC)</td>
+  </tr>
+  <tr>
+    <td>Late <br/>(&gt; 4 weeks)</td>
+    <td>Pancreatic Pseudocysts</td>
+    <td>Walled-off Pancreatic Necrosis (WOPN)</td>
+  </tr>
+</table>
+
+#### Pathophysiology
 * Pancreatic duct disruption
   * Acute pancreatitis
     * Ductal inflammation
@@ -31,7 +44,7 @@ categories: pancreas
   * Have a persistent fistula
   * Develop into a ductal stricture
   
-## Presentation
+#### Presentation
 * Persistent/worsening abdominal/back pain
 * Bloating
 * Early satiety
@@ -50,7 +63,7 @@ categories: pancreas
     * Pleuropancreatic fistula
 * Asymptomatic
 
-## Diagnosis
+#### Diagnosis
 * Rule out Cystic Neoplasm
 * CT Abdomen/Pelvis with Contrast
   * Uniform, rounded, fluid-filled mass
@@ -86,7 +99,7 @@ categories: pancreas
   * **Hight CEA level**
     * Mucinous neoplasm
     
-## Management of Pancreatic Pseudocysts
+#### Management of Pancreatic Pseudocysts
 * Natural history is spontaneous resolution
 * Historically intervention recommended for
   * &gt; 6 cm
