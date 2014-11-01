@@ -132,7 +132,7 @@ categories: esophagus
 |                         | Hill Repair    | Recreation of Angle of His<sup>\*</sup> and Posterior Gastropexy |
 |                         | Belsey Mark IV | Transthoracic 240 degree wrap |
 
-![Angle of His](/assets/2014-10-26-gastroesophageal-reflux-disease/angle_of_his.jpg)
+<img src="/assets/2014-10-26-gastroesophageal-reflux-disease/angle_of_his.jpg" alt="angle-of-his" class="center">
 
 Angle of His = 6
 
