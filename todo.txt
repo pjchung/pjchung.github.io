@@ -1,3 +1,8 @@
 - Answers to questions must be hidden until clicked on
-- Change the CSS for the site
 - Add snippets to search results to guide user search
+
+Posts to update:
+- Penetrating Abdominal Trauma
+- Malignant Liver Tumors
+- Pancreatic Pseudocysts
+- Acid-Base Disorders

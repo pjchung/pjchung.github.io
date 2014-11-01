@@ -60,20 +60,74 @@ categories: trauma
 
 #### Tile Classification System
 
-| Type    | Stability | Fracture Types |
-|---------|-----------|----------------|
-| Type A  | Stable | Transverse sacral, Iliac wing, Pubic rami, Pure acetabular, Chip & avulsion fractures |
-| Type B  | Partially Stable (vertically stable, rotationally unstable) | Open-book, Bucket-handle |
-| Type C  | Unstable (vertically unstable, rotationally unstable) | Complete disruption of sacroiliac complex |
+<table>
+  <thead>
+    <th style="width:20%">Type</th>
+    <th style="width:40%">Stability</th>
+    <th style="width:40%">Fracture Types</th>
+  </thead>
+  <tr>
+    <td>Type A</td>
+    <td>Stable</td>
+    <td>Transverse sacral, Iliac wing, Pubic rami, Pure acetabular, Chip & avulsion fractures</td>
+  </tr>
+  <tr>
+    <td>Type B</td>
+    <td>Partially Stable (vertically stable, rotationally unstable)</td>
+    <td>Open-book, Bucket-handle</td>
+  </tr>
+  <tr>
+    <td>Type C</td>
+    <td>Unstable (vertically unstable, rotationally unstable)</td>
+    <td>Complete disruption of sacroiliac complex</td>
+  </tr>
+</table>
 
 #### Young-Burgess Classification System
 
-| Type | Class | Characteristic | Hemipelvic Displacement | Stability |
-|------|-------|----------------|-------------------------|-----------|
-| AP   | I | Pubic diastasis < 2.5 cm | External rotation | Stable |
-| AP   | II | Pubic diastasis > 2.5 cm, Anterior SI joint disruption | External rotation | Rotationally unstable, vertically stable |
-| AP   | III | Type II and Posterior SI joint disruption | External rotation | Rotationally unstable, vertically stable |
-| Lateral compression | I | Ipsilateral sacral buckle fractures, ipsilateral horizontal pubic rami fractures (or disruption of symphysis with overlapping bones) | Internal rotation | Stable |
-| Lateral compression | II | Type I and ipsilateral iliac wing fracture or posterior SI joint disruption | Internal rotation | Rotationally unstable, vertically stable |
-| Vertical shear  |  | Vertical pubic rami fractures, SI joint disruption &plusmn; adjacent fractures | Vertical (cranial) | Rotationally unstable, vertically unstable |
+<table>
+  <thead>
+    <th style="width:15%">Type</th>
+    <th style="width:10%">Class</th>
+    <th style="width:30%">Characteristic</th>
+    <th style="width:15%">Hemipelvic Displacement</th>
+    <th style="width:30%">Stability</th>
+  </thead>
+  <tr>
+    <td>AP</td>
+    <td>I</td>
+    <td>Pubic diastasis &lt; 2.5 cm</td>
+    <td>External rotation</td>
+    <td>Stable</td>
+  </tr>
+  <tr>
+    <td>AP</td>
+    <td>II</td>
+    <td>Pubic diastasis &gt; 2.5 cm, Anterior SI joint disruption</td>
+    <td>External rotation</td>
+    <td>Rotationally unstable, vertically stable</td>
+  </tr>
+  <tr>
+    <td>AP</td>
+    <td>III</td>
+    <td>Type II and Posterior SI joint disruption</td>
+    <td>External rotation</td>
+    <td>Rotationally unstable, vertically stable</td>
+  </tr>
+  <tr>
+    <td>Lateral compression</td>
+    <td>I</td>
+    <td>Ipsilateral sacral buckle fractures, ipsilateral horizontal pubic rami fractures (or disruption of symphysis with overlapping bones)</td>
+    <td>Internal rotation</td>
+    <td>Stable</td>
+  </tr>
+  <tr>
+    <td>Vertical shear</td>
+    <td></td>
+    <td>Vertical pubic rami fractures, SI joint disruption &plusmn; adjacent fractures</td>
+    <td>Vertical (cranial)</td>
+    <td>Rotationally unstable, vertically unstable</td>
+  </tr>
+</table>
+
 
