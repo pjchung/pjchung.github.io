@@ -21,12 +21,28 @@ categories: large-bowel
 
 #### Hinchey Classification
 
-| Stage     | Description |
-|-----------|-------------|
-| Stage I   | Confined pericolic abscess |
-| Stage II  | Distant abscess (retroperitoneal or pelvic) |
-| Stage III | Purulent peritonitis caused by rupture of  pericoloic or pelvic absccess (noncommunicating) |
-| Stage IV  | Fecal peritonitis caused by free perforation of a diverticulum (communicating) |
+<table>
+  <thead>
+    <th style="width:25%">Stage</th>
+    <th style="width:75%">Description</th>
+  </thead>
+  <tr>
+    <td>Stage I</td>
+    <td>Confined pericolic abscess</td>
+  </tr>
+  <tr>
+    <td>Stage II</td>
+    <td>Distant abscess (retroperitoneal or pelvic)</td>
+  </tr>
+  <tr>
+    <td>Stage III</td>
+    <td>Purulent peritonitis caused by rupture of  pericoloic or pelvic absccess (noncommunicating)</td>
+  </tr>
+  <tr>
+    <td>Stage IV</td>
+    <td>Fecal peritonitis caused by free perforation of a diverticulum (communicating)</td>
+  </tr>
+</table>
 
 #### Hinchey I
 * Drainage of smaller mesocolic absccesses can be definitive treatment
@@ -75,3 +91,6 @@ categories: large-bowel
 * **[Subtotal colectomy]({% post_url 2014-10-26-subtotal-colectomy %})**
   * High rebleeding rate (up to 42%)
   * Reserved for hemodynamically unstable patient without localization of bleeding
+
+## *References*
+* **Ferrada P, Ivatury RR:** The Management of Diverticular Disease of the Colon. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
