@@ -5,7 +5,7 @@ date: 2014-09-21 15:45:00
 categories: trauma
 ---
 
-### Indications for C-Section During Exploratory Laparotomy
+## Indications for C-Section During Exploratory Laparotomy
 
 * Maternal shock
 * Pregnancy near term

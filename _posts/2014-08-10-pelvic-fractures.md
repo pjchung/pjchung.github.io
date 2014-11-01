@@ -5,13 +5,13 @@ date: 2014-08-10 01:00:00
 categories: trauma
 ---
 
-### Epidemiology
+## Epidemiology
 
 * Found in 9% of blunt traumas
 * Exsanguination from pelvic fracture in 0.5% of blunt traumas
 * Mortality 6%
 
-### Anatomy
+## Anatomy
 
 #### Bones and Ligaments
 * Pelvic ring
@@ -56,7 +56,7 @@ categories: trauma
   * Crosses Sacroiliac joint
   * Can be injured in Sacral ala fractures or Sacroiliac joint dislocations
   
-### Grades of Injury
+## Grades of Injury
 
 #### Tile Classification System
 

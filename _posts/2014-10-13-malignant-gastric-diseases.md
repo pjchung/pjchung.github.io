@@ -5,9 +5,13 @@ date: 2014-10-13 12:00:00
 categories: stomach
 ---
 
-### Gastric Adenocarcinoma
+## Operative Principles
 
-### Primary Gastric Lymphoma
+## Diseases
+
+#### Gastric Adenocarcinoma
+
+#### Primary Gastric Lymphoma
 
 * Symptoms
   * Epigastric pain
@@ -35,9 +39,9 @@ categories: stomach
   * **Chemoradiation** alone
   * Surgical resection for failed chemoradiation or emergency due to hemorrhage or perforation
 
-### Gastrointestinal Stromal Tumors
+#### Gastrointestinal Stromal Tumors
 
-### Zollinger-Ellison Syndrome (ZES)
+#### Zollinger-Ellison Syndrome (ZES)
 
 * **MEN I associated ZES**
   * Pituitary, Parathyroid, Pancreas (Gastrinoma)

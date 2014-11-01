@@ -5,7 +5,7 @@ date: 2014-09-21 16:00:00
 categories: trauma
 ---
 
-### Categories
+## Categories
 
 #### Le Fort I (Horizontal)
 * Also known as a "Guerin Fracture"

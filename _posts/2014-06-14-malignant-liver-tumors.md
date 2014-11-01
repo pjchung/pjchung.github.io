@@ -22,7 +22,7 @@ categories: liver
       
 ## Primary Hepatic Malignancies
 
-### Hepatocellular Carcinoma (HCC)
+#### Hepatocellular Carcinoma (HCC)
 * Most common *solid* tumor worldwide
   * Incidence of 1,000,000 cases/year worldwide
   * Incidence of 25,000 cases/year in US
@@ -32,7 +32,44 @@ categories: liver
   * Poor survival
     * \<5%
     * Associated cirrhosis precludes resection
-    
+
+#### Fibrolamellar Hepatocellular Carcinoma
+* Very different from HCC
+* Occurs in patients without parenchymal injury or cirrhosis
+* Median age of 27 years
+* **Primary neuroendocrine tumor of the liver**
+  * Secrete characteristic hormones/proteins
+    * Neurotensin
+    * Vitamin B<sub>12</sub>-binding protein
+  * Well circumscribed
+  * Separate from adjacent blood vessels
+  * Slow growing
+* 5-year survival rates range from 30 - 50%
+* Nodal metastases in 15 - 30% of cases
+  * Inspection of lymph nodes
+    * Porta hepatis
+    * Celiac region
+    * Peripancreatic region
+
+#### Intrahepatic Cholangiocarcinoma (ICC)
+* Epidemiology
+  * AKA **\"Peripheral Cholangiocarcinoma\"**
+  * Associated with viral hepatitis and cirrhosis
+  * More common in Southeast Asia
+  * Incidence of 5,000 cases/year in US
+* Surgical resection only potentially curative option
+* Diagnostic laparoscopy due to high incidence of peritoneal metastases
+* Nodal metastases in 1/3 of cases
+  * Sampling and formal dissection of positive nodes
+* Most patients are not candidates for resection due to metastases
+  * Peritoneal
+  * Lung
+  * Bone
+* 5-year survival rates for R0 resection ranges from 44 - 63%
+* Mortality rate ranges from 2 - 7%
+
+## Therapies
+
 #### Surgical Resection
 * Liver-localized disease and good hepatic reserve
 * Tend to be **Child A cirrhosis**
@@ -81,43 +118,6 @@ categories: liver
   * Sepsis
 * Response rates can reach 80%
 * TAE and TACE require interval treatment every 3 - 6 months
-
-
-### Fibrolamellar Hepatocellular Carcinoma
-* Very different from HCC
-* Occurs in patients without parenchymal injury or cirrhosis
-* Median age of 27 years
-* **Primary neuroendocrine tumor of the liver**
-  * Secrete characteristic hormones/proteins
-    * Neurotensin
-    * Vitamin B<sub>12</sub>-binding protein
-  * Well circumscribed
-  * Separate from adjacent blood vessels
-  * Slow growing
-* 5-year survival rates range from 30 - 50%
-* Nodal metastases in 15 - 30% of cases
-  * Inspection of lymph nodes
-    * Porta hepatis
-    * Celiac region
-    * Peripancreatic region
-    
-
-### Intrahepatic Cholangiocarcinoma (ICC)
-* Epidemiology
-  * AKA **\"Peripheral Cholangiocarcinoma\"**
-  * Associated with viral hepatitis and cirrhosis
-  * More common in Southeast Asia
-  * Incidence of 5,000 cases/year in US
-* Surgical resection only potentially curative option
-* Diagnostic laparoscopy due to high incidence of peritoneal metastases
-* Nodal metastases in 1/3 of cases
-  * Sampling and formal dissection of positive nodes
-* Most patients are not candidates for resection due to metastases
-  * Peritoneal
-  * Lung
-  * Bone
-* 5-year survival rates for R0 resection ranges from 44 - 63%
-* Mortality rate ranges from 2 - 7%
 
 ## Preoperative Assessment
 

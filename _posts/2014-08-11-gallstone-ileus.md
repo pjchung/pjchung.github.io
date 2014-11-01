@@ -5,7 +5,7 @@ date: 2014-08-11 01:00:00
 categories: hepatobiliary
 ---
 
-### Epidemiology
+## Epidemiology
 
 * First described by *Courvosisier* in 1890
 * 3% of intestinal obstructions
@@ -13,7 +13,7 @@ categories: hepatobiliary
 * More common in older women
 * Female > Male (3:1 to 5:1)
 
-### Pathogenesis
+## Pathogenesis
 
 * Requires a preceding biliary enteric fistula between gallbladder and intestine
   * Commonly duodenum adjacent to gallbladder
@@ -24,13 +24,13 @@ categories: hepatobiliary
   * Common bile duct obstructions (**Mirizzi\'s Syndrome**)
 * After endoscopic sphincterotomy for CBD stones
 
-### Variations
+## Variations
 
 * **Bouveret\'s Syndrome**
   * Large gallstone eroding into stomach with obstruction of stone at pylorus or proximal duodenum
   * Present with gastric outlet syndrome
   
-### Diagnosis
+## Diagnosis
 
 * Many cases of gallstone ileus thought to be just small bowel obstruction at time of diagnosis
 * Often diagnosis made in operating room
@@ -55,14 +55,16 @@ categories: hepatobiliary
   * Radiopaque gallstone
     * Rare
   * **Rigler\'s Triad**
-    * ![Rigler Sign](/assets/2014-08-11-gallstone-ileus/rigler_sign.png)
+    
+    <img src="/assets/2014-08-11-gallstone-ileus/rigler_sign.png" alt="rigler-sign" class="center" height="75%">
+    
     * Distended loops of small bowel
     * Pneumobilia
     * Radiopaque stone in right lower quadrant
 * CT Abdomen/Pelvis
   * Most sensitive
 
-### Management
+## Management
 
 * Patients often present **dehydrated** and with **electrolyte abnormalities**
 * Initial focus on resuscitation and electrolyte correction
@@ -85,7 +87,7 @@ categories: hepatobiliary
     1. Delineates anatomy in distorted field
 * Refer patients to specialized hepato-biliary center if surgeon has little experiences in difficult open cholecystectomy
 
-#### Operative Procedure
+## Operative Procedure
 
 * Conventional **[Enterolithotomy]({% post_url 2014-10-26-enterolithotomy %})**
   * Gallstone milked backwards

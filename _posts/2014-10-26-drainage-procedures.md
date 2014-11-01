@@ -5,8 +5,7 @@ date: 2014-10-26 20:00:00
 categories: procedures
 ---
 
-![drainage-procedures](/assets/2014-10-26-drainage-procedures/drainage_procedures.png)
-
+<img src="/assets/2014-10-26-drainage-procedures/drainage_procedures.png" alt="drainge-procedure" class="center">
 
 ## Heineke-Mikulicz Pyloroplasty
 * Longitudinal incision created through the Pylorus

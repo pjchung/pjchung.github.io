@@ -5,25 +5,21 @@ date:   2014-06-09 21:00:00
 categories: anorectal
 ---
 
-# Abscesses
-
 ## Pathophysiology
 
-### Causes
 * Blockage of anal crypts leading to infection of anal glands (90%)
-* Crohn\'s disease
-* Diverticulitis
-* Appendicitis
-* Trauma
-* Atypical infections (e.g. Tuberculosis)
-
-### Spectrum of Disease
+* Causes include
+  * Crohn\'s disease
+  * Diverticulitis
+  * Appendicitis
+  * Trauma
+  * Atypical infections (e.g. Tuberculosis)
 * Abscesses lead to fistula in 40-60% of cases
   * Abscess = acute state
   * Fistula = chronic state
   
 ## Classification by Location
-![abscess-location](/assets/2014-06-09-anorectal-abscess-and-fistula/abscess_location.png)
+<img src="/assets/2014-06-09-anorectal-abscess-and-fistula/abscess_location.png" alt="abscess-location" class="center">
 
 1. **Supralevator**
 1. **Submucosal**
@@ -51,9 +47,9 @@ categories: anorectal
   * Multiple counter incisions over _ischiorectal fossa_
 
 
-# Fistulas
+## Fistulas
 
-## Classification
+#### Classification
 1. **Intersphincteric**
   * Involves partial amounts of internal sphincter
 1. **Transsphincteric**
@@ -70,22 +66,22 @@ categories: anorectal
     * Crohn\'s disease
     * Iatrogenic
 
-![fistula-locaton](/assets/2014-06-09-anorectal-abscess-and-fistula/fistula_location.png) 
+<img src="/assets/2014-06-09-anorectal-abscess-and-fistula/fistula_location.png" alt="fistula-locaton" class="center">
 
 ## Diagnosis
 
-### Goodsall\'s rule
+#### Goodsall\'s rule
 * Predicts location of internal opening based on location of external opening
 * Imaginary transverse line separates anterior from posterior
 * Anterior external openings are likely to track radially towards an internal opening
 * Posterior external openings are likely to track curvilinear towards the posterior midline
 * Anterior external openings \> 3 cm from the anal verge are likely to track curvilinear towards the posterior midline
 
-![goodsall-rule](/assets/2014-06-09-anorectal-abscess-and-fistula/goodsall_rule.png) 
+<img src="/assets/2014-06-09-anorectal-abscess-and-fistula/goodsall_rule.png" alt="goodsall-rule" class="center">
 
 ## Treatment
 
-### Cutting (Sphincter-sacrificing)
+#### Cutting (Sphincter-sacrificing)
 * **Simple Fistulotomy**
   * Indications
     * Superficial Fistulas
@@ -98,7 +94,7 @@ categories: anorectal
     * HIV
 * **Staged Fistulotomy**
 
-### Non-cutting (Sphincter-sparing)
+#### Non-cutting (Sphincter-sparing)
 * **Seton Placement**
   * Indications
     * High Transsphincteric Fistulas
@@ -141,4 +137,7 @@ categories: anorectal
   * Indication
     * **Transsphincteric fistula with mature tract** (usually have prior Seton drainage)
   * 57-89% success rate
-  * *see [LIFT details]({% post_url 2014-10-26-ligation-of-intersphincteric-fistula-tract %})*
+  * ***see [LIFT details]({% post_url 2014-10-26-ligation-of-intersphincteric-fistula-tract %})***
+
+## *References*
+* **Blumetti J, Cintron JR:** Anorectal Abscess and Fistula. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**

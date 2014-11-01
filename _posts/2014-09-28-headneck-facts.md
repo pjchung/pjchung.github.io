@@ -5,7 +5,7 @@ date: 2014-09-28 21:00:00
 categories: head-neck
 ---
 
-### Thyroglossal Duct Cyst and Sinus
+#### Thyroglossal Duct Cyst and Sinus
 
 * Most common congenital cervical anomaly
 * Thyroglossal duct lumen starts to obliterate at week 5 and disappears by week 8
@@ -23,7 +23,7 @@ categories: head-neck
   * 85% Papillary
   * Medullary Thyroid Cancer is *NOT* found in Thyroglossal Duct Cysts
 
-### Salivary Gland Tumors
+## Salivary Gland Tumors
 
 #### Benign
 
@@ -46,7 +46,7 @@ categories: head-neck
 * Superficial Parotidectomy with Facial Nerve preservation
 * Enucleation is **NOT** recommended due to risk of spillage and problematic recurrence
 
-### Malignant
+## Malignant
 
 * Mucoepidermoid Carcinoma (most common in adults and pediatrics)
   * Low-grade: mostly mucin-secreting cells

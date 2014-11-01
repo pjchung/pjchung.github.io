@@ -27,7 +27,7 @@ categories: esophagus
     * Gold standard in diagnosis of GERD
     * **DeMeester Score**
 
-### Lower Esophageal Sphincter Disorders
+## Lower Esophageal Sphincter Disorders
 
 #### Hiatal Hernias
 
@@ -46,7 +46,7 @@ categories: esophagus
 * Normal peristalsis of esophagus present
 
 
-### Esophageal Motor Disorders
+## Esophageal Motor Disorders
 
 #### Achalasia
 
@@ -111,7 +111,7 @@ categories: esophagus
   * PPIs
   * Lifestyle modification
 
-### Esophageal Structural Disorders
+## Esophageal Structural Disorders
 
 #### Congenital Webs
 

@@ -5,7 +5,7 @@ date: 2014-10-13 12:00:00
 categories: stomach
 ---
 
-## Duodenal Ulcers
+## Principles of Duodenal Ulcers
 
 * Duodenal Ulcers symptoms
   * Sudden onset epigastric pain
@@ -13,7 +13,7 @@ categories: stomach
   * Burning
   * Stabbing
 
-## Gastric Ulcers
+## Principles of Gastric Ulcers
 
 * Non-operative management is the standard
 * Must rule-out malignancy when suspicious
@@ -22,7 +22,7 @@ categories: stomach
 * Gastric Ulcer symptoms worsen with food intake
 * Duodenal Ulcer symptoms alleviate with food intake
 
-#### Risk Factors
+## Risk Factors
 
 * *Helicobacter pylori* infection
   * Associated with 90 - 95% of Duodenal Ulcers
@@ -38,7 +38,7 @@ categories: stomach
 * Increased Acid Production
   * Associated with Type II and III ulcers
 
-#### Diagnosis
+## Diagnosis
 
 * Esophagogastroduodenoscopy (EGD)
   * Visualization of ulcers
@@ -59,7 +59,7 @@ categories: stomach
   * In setting of *H. pylori* negative and non-NSAID user with recurrent disease despite adequate medical therapy
   * To rule-out **Zollinger-Ellison Syndrome** (very rare)
   
-#### Medical Therapy
+## Medical Therapy
 
 * *H. pylori* Erradication
   * Triple Therapy (BID for each agent) for 14 days
@@ -74,7 +74,7 @@ categories: stomach
   * **3% of ulcers harbor malignancy**
 * 6 weeks medical therapy &#8594; EGD &#8594; 6 weeks medical therapy &#8594; EGD &#8594; Surgery if not healed
 
-#### Surgical Therapy
+## Surgical Therapy
 
 * **Truncal Vagotomy with Antrectomy (Billroth I or II)**
   * Lowest recurrence rate (1 - 2%)
@@ -88,7 +88,7 @@ categories: stomach
 
 #### Johnson Classification of Gastric Ulcers
 
-![johnson-classification](/assets/2014-10-13-benign-gastric-diseases/johnson_classification.png)
+<img src="/assets/2014-10-13-benign-gastric-diseases/johnson_classification.png" alt="johnson-classification" class="center">
 
 * **Type I**
   * Most common (60%)
@@ -223,6 +223,8 @@ categories: stomach
   * **Billroth II** or **Roux-en-Y** may be necessary if safe resection with tension-free anastomosis is not possible
 * **Endoscopic Stenting with Dilatation** may be performed in patients that are poor surgical candidates
 
+## Surgical Therapies
+
 #### Vagotomies
 
 * Goal is the Parasympathetic denervation of the acid-producing stomach tissue
@@ -238,98 +240,106 @@ categories: stomach
 * Goal is to remove Antral glands containing G Cells
 * *See **[Antrectomies]({% post_url 2014-10-26-antrectomies %})***
 
-#### Postgastrectomy Syndromes
+## Postgastrectomy Syndromes
 
 * Clear diagnosis of the type of Postgastrectomy Syndrome necessary to create a rational treatment plan
 * Most are treated non-operatively and resolve with time
 
-* **Nutritional Disturbances**
-  * Can occur &le; 30% of post-gastrectomy patients
-  * Deficiencies of
-    * Iron
-    * Folate
-    * Vitamin B12
-    * Calcium
-    * Vitamin D
-* **Dumping Syndromes**
-  * Most common after **Billroth II** reconstructions
-  * Rapid emptying of high-osmolar carbohydrate load into small intestines
-  * **Early Dumping**
-    * &le; 30 minutes of eating
-    * Nausea, explosive diarrhea, epigastric pain, vasomotor symptoms (dizziness, flushing, palpitations, diaphoresis)
-    * Rapid fluid shifts from **Hyperosmolar** intestinal content and release of **Vasoactive Peptides** from gut
-    * Relieved by
-      * Lying down (recumbence)
-      * Saline infusion
-  * **Late Dumping**
-    * 1 - 4 hours after eating
-    * High simple carbohydrate load &#8594; **Hyperinsulinemia** and **Hypoglycemia**
-    * Relieved by giving simple carbohydrates
-  * Treatment
-    * Avoid simple carbohydrates
-    * Small frequent meals
-    * Liquids ingested 30 minutes after solids
-    * **Octreotide** results in persistent relief in 80% of patients
-    * Conversion to **Roux-en-Y**
-* **Alkaline Reflux Gastritis**
-  * Most common after **Billroth II** reconstruction
-  * Most likely complication to require operative correction
-  * Triad of **constant** nausea, epigastric pain, bilious emesis
-  * Pain not relieved by emesis
-  * Diagnosis
-    * EGD &#8594; rule out recurrent ulcers
-    * HIDA &#8594; demonstrates enterogastric reflux
-    * **NO** obstruction &#8594; differentiates Alkaline Reflux Gastritis from Loop Syndromes
-  * Treatment
-    * Frequent small meals
-    * Antiacids
+#### Nutritional Disturbances
+* Can occur &le; 30% of post-gastrectomy patients
+* Deficiencies of
+  * Iron
+  * Folate
+  * Vitamin B12
+  * Calcium
+  * Vitamin D
+  
+#### Dumping Syndromes
+* Most common after **Billroth II** reconstructions
+* Rapid emptying of high-osmolar carbohydrate load into small intestines
+* **Early Dumping**
+  * &le; 30 minutes of eating
+  * Nausea, explosive diarrhea, epigastric pain, vasomotor symptoms (dizziness, flushing, palpitations, diaphoresis)
+  * Rapid fluid shifts from **Hyperosmolar** intestinal content and release of **Vasoactive Peptides** from gut
+  * Relieved by
+    * Lying down (recumbence)
+    * Saline infusion
+* **Late Dumping**
+  * 1 - 4 hours after eating
+  * High simple carbohydrate load &#8594; **Hyperinsulinemia** and **Hypoglycemia**
+  * Relieved by giving simple carbohydrates
+* Treatment
+  * Avoid simple carbohydrates
+  * Small frequent meals
+  * Liquids ingested 30 minutes after solids
+  * **Octreotide** results in persistent relief in 80% of patients
+  * Conversion to **Roux-en-Y**
+
+#### Alkaline Reflux Gastritis
+* Most common after **Billroth II** reconstruction
+* Most likely complication to require operative correction
+* Triad of **constant** nausea, epigastric pain, bilious emesis
+* Pain not relieved by emesis
+* Diagnosis
+  * EGD &#8594; rule out recurrent ulcers
+  * HIDA &#8594; demonstrates enterogastric reflux
+  * **NO** obstruction &#8594; differentiates Alkaline Reflux Gastritis from Loop Syndromes
+* Treatment
+  * Frequent small meals
+  * Antiacids
+  * Cholestyramine
+  * **Long-limb (45 cm) Roux-en-Y** &#8594; eliminates Alkaline Reflux and is preferred option
+
+#### Roux Stasis Syndrome
+* &le; 30% of patients after Roux-en-Y
+* Chronic abdominal pain, nausea, vomiting worse with meals
+* **Functional obstruction** from disruption of the normal propagation of paceseetter potentials in Roux limb (proximal duodenum)
+* Treatment
+  * **Near-total Gastrectomy** &#8594; removes atonic stomach to improve gastric emptying
+  * **"Uncut" Roux-en-Y** &#8594; preserves normal pacemaker propagation and prevents development of the syndrome
+
+#### Loop Syndromes
+* Found in **Billroth II** reconstructions
+* Caused by **mechanical obstruction** of either the **Afferent** or **Efferent** limbs
+* **Afferent Loop Syndrome**
+  * Bowel kink, volvulus, internal herniation of the Afferent limb
+  * Severe abdominal pain, **non-bilious emesis**
+  * First few weeks after surgery
+  * Elevated bilirubin/amylase
+  * Acute
+    * Can result in **Duodenal Stump Blowout** from progressive Afferent limb dilatation
+    * **Braun Side-to-Side Jejunojejunostomy** can acutely decompress the Afferent limb
+  * Chronic
+    * Partial mechanical obstruction of the Afferent limb
+    * Postprandial RUQ pain relieved by **Bilious emesis**
+    * Stasis &#8594; **Blind Loop Syndrome**
+      * Steatorrhea
+      * Deficiencies of Vitamin B12, Folate, Iron
+      * Interference with Fat absorption
+  
+#### Efferent Loop Syndrome
+* Intermittent obstruction of the Efferent limb
+* Abdominal pain, **bilious emesis**
+* Months to years after surgery
+* Similar to a proximal small bowel obstruction
+
+#### Postvagotomy Diarrhea
+* 20% after Truncal Vagotomy
+* Alterations in gastric emptying and Vagal denervation of small bowel and biliary tree
+* Watery and episodic diarrhea
+* Treatment
+  * Antidiarrhea medication
+    * Loperamide
+    * Diphenoxylate with Atropine
     * Cholestyramine
-    * **Long-limb (45 cm) Roux-en-Y** &#8594; eliminates Alkaline Reflux and is preferred option
-* **Roux Stasis Syndrome**
-  * &le; 30% of patients after Roux-en-Y
-  * Chronic abdominal pain, nausea, vomiting worse with meals
-  * **Functional obstruction** from disruption of the normal propagation of paceseetter potentials in Roux limb (proximal duodenum)
-  * Treatment
-    * **Near-total Gastrectomy** &#8594; removes atonic stomach to improve gastric emptying
-    * **"Uncut" Roux-en-Y** &#8594; preserves normal pacemaker propagation and prevents development of the syndrome
-* **Loop Syndromes**
-  * Found in **Billroth II** reconstructions
-  * Caused by **mechanical obstruction** of either the **Afferent** or **Efferent** limbs
-  * **Afferent Loop Syndrome**
-    * Bowel kink, volvulus, internal herniation of the Afferent limb
-    * Severe abdominal pain, **non-bilious emesis**
-    * First few weeks after surgery
-    * Elevated bilirubin/amylase
-    * Acute
-      * Can result in **Duodenal Stump Blowout** from progressive Afferent limb dilatation
-      * **Braun Side-to-Side Jejunojejunostomy** can acutely decompress the Afferent limb
-    * Chronic
-      * Partial mechanical obstruction of the Afferent limb
-      * Postprandial RUQ pain relieved by **Bilious emesis**
-      * Stasis &#8594; **Blind Loop Syndrome**
-        * Steatorrhea
-        * Deficiencies of Vitamin B12, Folate, Iron
-        * Interference with Fat absorption
-  * **Efferent Loop Syndrome**
-    * Intermittent obstruction of the Efferent limb
-    * Abdominal pain, **bilious emesis**
-    * Months to years after surgery
-    * Similar to a proximal small bowel obstruction
-* **Postvagotomy Diarrhea**
-  * 20% after Truncal Vagotomy
-  * Alterations in gastric emptying and Vagal denervation of small bowel and biliary tree
-  * Watery and episodic diarrhea
-  * Treatment
-    * Antidiarrhea medication
-      * Loperamide
-      * Diphenoxylate with Atropine
-      * Cholestyramine
-    * Decreasing excessive intake of fluids or foods with lactulose
-    * Surgery **RARELY** indicated
+  * Decreasing excessive intake of fluids or foods with lactulose
+  * Surgery **RARELY** indicated
 
-## Gastric Polyps
+## Other Benign Gastric Diseases
 
-## Gastric Volvulus
+#### Gastric Polyps
+
+#### Gastric Volvulus
 
 * Complication of Paraesophageal Hernia
 * **Borchardt Triad**
@@ -337,7 +347,7 @@ categories: stomach
   * Violent retching
   * Inability to pass an NG tube
 
-## Morbid Obesity
+#### Morbid Obesity
 
 ## *References*
 * **Abdel-Misih RZ, Larson JD:** The Management of Benign Gastric Ulcer. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**

@@ -67,6 +67,12 @@ h4 a:hover {
   color: $secondary-color;
 }
 
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* Adapted from Angular Foundation demo.css */
 // $topbar-background-color: #5592BB;
 // $topbar-hover-color: #4783A9;

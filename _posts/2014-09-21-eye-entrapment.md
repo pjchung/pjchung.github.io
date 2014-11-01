@@ -5,7 +5,7 @@ date: 2014-09-21 16:15:00
 categories: trauma
 ---
 
-### Fracture of the Orbital Floor
+## Fracture of the Orbital Floor
 
 * Most common type of orbital fracture
 * Herniation of orbital content into Maxillary Sinus
@@ -18,4 +18,4 @@ categories: trauma
   * Appears normal on CT scan
   * Needs to be repaired within 24-72 hours to prevent mobility problems
   
-![eye-anatomy](/assets/2014-09-21-eye-entrapment/eye_anatomy.jpg)
+<img src="/assets/2014-09-21-eye-entrapment/eye_anatomy.jpg" alt="eye-anatomy" class="center">

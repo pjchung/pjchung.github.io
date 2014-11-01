@@ -10,7 +10,7 @@ categories: critical-care
 > pH = log(1/[H<sup>+</sup>]) = -log[H<sup>+</sup>]
 
 
-### Features of pH
+#### Features of pH
 1. Dimensionless
 1. Varies inversely to change in [H+]
 1. Changes in pH are not linearly related to changes in [H+]
@@ -34,9 +34,6 @@ categories: critical-care
 ## Classification of Acid-Base Disorders
 
 > [H<sup>+</sup>] = 24 x (PCO<sub>2</sub>/HCO<sub>3</sub>)
-
-
-### Response to Metabolic Acid-Base Disorders
 
 #### Metabolic Acidosis
 * Increase Minute Ventilation (Tidal Volume * Respiratory Rate)

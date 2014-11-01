@@ -5,6 +5,8 @@ date: 2014-08-31 01:00:00
 categories: esophagus
 ---
 
+## Epidemiology
+
 * First described by **Henry Ingersoll Bowditch** in 1853
 * Prevalence of 10-60%
 * Sliding esophageal hernias = 95%
