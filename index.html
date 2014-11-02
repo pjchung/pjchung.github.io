@@ -8,7 +8,7 @@ layout: default
     <ul style="list-style-type:none;padding:0;margin:0">
       {% for post in site.posts %}
       <li>
-        <h4 style="margin-bottom:0em"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        <h3 style="margin-bottom:0em"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
         <span class="meta" style="font-size:small">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
       <br/>
