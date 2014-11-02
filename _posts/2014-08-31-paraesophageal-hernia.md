@@ -52,7 +52,7 @@ categories: esophagus
   1. Epigastric/chest pain
   1. Retching without vomiting
   1. Inability to pass nasogastric tube
-* **[Collis Gastroplasty]({% post_url 2014-10-26-collis-gastroplasty %})** = esophageal lengthening procedure
+* **[Collis Gastroplasty]()** = esophageal lengthening procedure
   * 52F to 54 bougie placed along lesser curvature
   * Endo GIA used to divide from greater curvature down to bougie and 5 cm from GEJ
   * Wedge of stomach removed by dividing along bougie to GEJ
@@ -90,7 +90,7 @@ categories: esophagus
   * Intraluminal pressures
   * Lower esophageal sphincter function
   * Coordinated contractile movements of the esophagus
-  * Guides choice of **[antireflux procedure]({% post_url 2014-10-24-antireflux-procedures %})**
+  * Guides choice of **[antireflux procedure]({)**
 * CT scan
 
 ## Therapy

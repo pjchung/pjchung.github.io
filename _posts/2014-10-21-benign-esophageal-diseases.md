@@ -10,7 +10,7 @@ categories: esophagus
 * **Motility (Peristalsis)**
 * **Lower Esophageal Sphincter**
   * Functionality depends on **total length**, **pressure**, and **intraabdominal length**
-  * **[Esophageal Manometry]({% post_url 2014-10-24-esophageal-manometry %})**
+  * **[Esophageal Manometry]()**
     * Overall length of LES
     * Abdominal length of LES
     * Pressure of LES
@@ -67,7 +67,7 @@ categories: esophagus
     * Botulinum toxin &#8594; works 3 - 6 months
     * Pneumatic dilatation &#8594; can complicate subsequent surgical procedures
   * Surgical therapies
-    * **[Heller Myotomy]({% post_url 2014-10-24-heller-myotomy %})** with **[Antireflux Procedure]({% post_url 2014-10-24-antireflux-procedures %})**
+    * **[Heller Myotomy]()** with **[Antireflux Procedure]()**
     * Esophagectomy &#8594; in end-stage Achalasia
 
 #### Diffuse Esophageal Spasm

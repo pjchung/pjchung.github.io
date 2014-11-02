@@ -137,7 +137,7 @@ categories: anorectal
   * Indication
     * **Transsphincteric fistula with mature tract** (usually have prior Seton drainage)
   * 57-89% success rate
-  * ***see [LIFT details]({% post_url 2014-10-26-ligation-of-intersphincteric-fistula-tract %})***
+  * ***see [LIFT details]()***
 
 ## *References*
 * **Blumetti J, Cintron JR:** Anorectal Abscess and Fistula. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**

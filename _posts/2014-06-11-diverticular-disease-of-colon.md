@@ -58,7 +58,7 @@ categories: large-bowel
 
 #### Hinchey III
 * Emergent operative management
-  * Sigmoid resection with colostomy and closure of distal rectum (**[Hartmann\'s Procedure]({% post_url 2014-10-26-hartmann-procedure%})**)
+  * Sigmoid resection with colostomy and closure of distal rectum (**[Hartmann\'s Procedure]()**)
   * Creation of mucous fistula
   * Damage-control surgery
     * Unstable patient on pressors
@@ -88,7 +88,7 @@ categories: large-bowel
     * Mesenteric Angiography
     * Triple-phase CTA
     * Radionuclide Scanning
-* **[Subtotal colectomy]({% post_url 2014-10-26-subtotal-colectomy %})**
+* **[Subtotal colectomy]()**
   * High rebleeding rate (up to 42%)
   * Reserved for hemodynamically unstable patient without localization of bleeding
 

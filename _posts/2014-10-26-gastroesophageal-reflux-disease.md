@@ -82,7 +82,7 @@ categories: esophagus
 
 #### Absolute Contraindications
 
-* **[Esophageal cancer]({% post_url 2014-10-26-malignant-esophageal-diseases %})**
+* ***[Esophageal cancer]()***
 * Barrett's Esophagus with untreated high-grade dysplasia
 * Portal Hypertension
 * Inability to tolerate anesthesia
@@ -90,8 +90,8 @@ categories: esophagus
 
 #### Relative Contraindications
 
-* Obesity &#8594; decreases durability of **[antireflux procedure]({% post_url 2014-10-24-antireflux-procedures %})**
-  * BMI &gt; 35 kg/m<sup>2</sup> should undergo **[bariatric procedures]({% post_url 2014-10-26-bariatric-procedures %})**
+* Obesity &#8594; decreases durability of ***[antireflux procedure]()***
+  * BMI &gt; 35 kg/m<sup>2</sup> should undergo ***[bariatric procedures]()***
 * Lack of Surgeon experience
 
 ## Preoperative Workup
@@ -107,8 +107,8 @@ categories: esophagus
   * Gastric morphology
   * Gastric size
   * Length of esophagus &#8594; to rule out **\"Short Esophagus\"**
-  * Presence of a **[Hiatal Hernia]({% post_url 2014-08-31-paraesophageal-hernia %})**
-* **[Esophageal Manometry]({% post_url 2014-10-24-esophageal-manometry %})**
+  * Presence of a ***[Hiatal Hernia]({% post_url 2014-08-31-paraesophageal-hernia %})***
+* ***[Esophageal Manometry]()***
   * Rule out presence of other diseases in which antireflux surgery may be contraindicated (e.g. Achalasia)
   * Guides degree of fundoplication &#8594; incomplete wrap in a patient with disordered peristalsis or low-amplitude contractions
 * **Ambulatory pH Monitoring**
@@ -141,7 +141,7 @@ categories: esophagus
   * Result of chronic reflux disease with recurring cycles of inflammation and healing with subsequent fibrosis
   * Extensive mediastinal mobilization
   * Complete reduction of Hiatal Hernia
-  * Lengthening procedure (*see **[Collis Gastroplasty]({% post_url 2014-10-26-collis-gastroplasty %})***)
+  * Lengthening procedure (*see **[Collis Gastroplasty]()***)
 * **Esophageal** or **Gastric Perforation**
   * Thermal damage
   * Excessive traction
