@@ -65,4 +65,4 @@ categories: procedures
 
 ## *References*
 * **Abdel-Misih RZ, Larson JD:** The Management of Benign Gastric Ulcer. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
-* **Evers M:** Gastrojejunostomy. **Townsend CM, Evers M** *Atlas of General Surgical Techniques.* ed 1 2010 **Sanders Elsevier Philadelphi**
+* **Evers M:** Chapter 32: Gastrojejunostomy. **Townsend CM, Evers M** *Atlas of General Surgical Techniques.* ed 1 2010 **Sanders Elsevier Philadelphi**

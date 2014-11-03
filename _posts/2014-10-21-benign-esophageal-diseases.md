@@ -67,7 +67,7 @@ categories: esophagus
     * Botulinum toxin &#8594; works 3 - 6 months
     * Pneumatic dilatation &#8594; can complicate subsequent surgical procedures
   * Surgical therapies
-    * **[Heller Myotomy]()** with **[Antireflux Procedure]()**
+    * **[Heller Myotomy]({% post_url 2014-10-24-heller-myotomy %})** with **[Antireflux Procedure]()**
     * Esophagectomy &#8594; in end-stage Achalasia
 
 #### Diffuse Esophageal Spasm
