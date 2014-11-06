@@ -13,7 +13,7 @@ permalink: /syllabus/
 * The Management of Pharyngeal Esophageal (Zenker's Diverticula)
 * The Management of Achalasia of the Esophagus
 * The Management of Disorders of Esophageal Motility
-* The Management of Esophageal Tumors
+* **The Management of Esophageal Carcinomas** &#x2713;
 * Neoadjuvant and Adjuvant Therapy of Esophageal Cancer
 * The Use of Esophageal Stents
 * The Management of Esophageal Perforation
