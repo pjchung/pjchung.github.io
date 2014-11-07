@@ -119,6 +119,8 @@ categories: esophagus
 
 #### Pharyngoesophageal (Zenker's) Diverticulum
 
+* ***See [Zenker's Diverticulum]({% post_url 2014-11-06-zenker-diverticula %})***
+
 #### Traction Diverticulum
 
 #### Epiphrenic (Pulsion) Diverticulum

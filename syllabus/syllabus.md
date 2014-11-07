@@ -10,7 +10,7 @@ permalink: /syllabus/
 * The Management of Barrett's Esophagus
 * The Endoscopic Treatment of Barrett's Esophagus
 * **The Management of Paraesophageal Hiatal Hernia** &#x2713; <!-- check mark -->
-* The Management of Pharyngeal Esophageal (Zenker's Diverticula)
+* **The Management of Pharyngeal Esophageal (Zenker's Diverticula)** &#x2713;
 * The Management of Achalasia of the Esophagus
 * The Management of Disorders of Esophageal Motility
 * **The Management of Esophageal Carcinomas** &#x2713;
