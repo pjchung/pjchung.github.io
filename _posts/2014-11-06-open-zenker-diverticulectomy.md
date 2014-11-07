@@ -86,4 +86,4 @@ categories: esophagus
 
 * Patient is disharged home
 
-
+* **Loran DB, Zwischenberger JB:** Chapter 15: Zenker's Diverticula. **Townsend CM, Evers M** *Atlas of General Surgical Techniques.* ed 1 2010 **Sanders Elsevier Philadelphi**
