@@ -5,12 +5,25 @@ date: 2014-10-24 23:00:00
 categories: procedures
 ---
 
+## History
+
+* First described by Ernst Heller in 1913
+
 ## Indications
 
 * ***See [Benign Esophageal Disease]({% post_url 2014-10-21-benign-esophageal-diseases %})***
 * Long term success is achieved in approximately 90 - 95% of patients undergoing Open Heller Myotomy
 * **Laparoscopic Heller Myotomy** is comparable to Open
 * Patients with a **Sigmoid Esophagus** should first undergo a Myotomy then Esophagectomy if the symptoms do not resolve
+* Myotomy should extend from 4 - 8 cm on esophageal aspect and 2 - 3 cm on the stomach
+* Usually combined with a **[antireflux procedure]()**  
+  * Toupet Fundoplication
+    * Improved long-term reflux control
+    * Better visualization of the myotomy
+    * More robust anti-reflux valve
+  * Dor Fundoplication
+    * Less disruption of hiatal anatomy
+    * Fundal coverage of esophageal mucosa after myotomy
 
 ## Procedure
 
@@ -87,4 +100,5 @@ categories: procedures
 ## *References*
 * **Loran DB, Zwischenberger JB:** Chapter 19: Open Heller Myotomy. **Townsend CM, Evers M** *Atlas of General Surgical Techniques.* ed 1 2010 **Sanders Elsevier Philadelphi**
 * **Carrott PW, Mann JA, Kozower BD:** Esophageal Function Testing. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Markar SR, Low DE:** The Management of Achalasia of the Esophagus. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
 * **Reddy RM, Meyers BF:** Esophagus. **Klingensmith ME** *The Washington Manual of Surgery.* ed 5 2008 **LWW Philadelphia**
