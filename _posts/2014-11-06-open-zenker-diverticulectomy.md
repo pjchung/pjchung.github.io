@@ -39,7 +39,7 @@ categories: esophagus
 
 <img src="/assets/2014-11-06-open-zenker-diverticulectomy/zenkers_exposure.png" alt="exposure" class="center">
 
-* The diverticula is grasped with Allis or Babcock clasp and dissected free from adjacent tissue
+* The diverticula is grasped with Allis or Babcock clamp and dissected free from adjacent tissue
 * 36F to 40F Bougie is placed into the Esophagus to help identify it
 * Myotomy performed from **base of diverticula** through all transverse muscle fibers and unto the longitudinal muscle fibers and to a length of **8 - 10 cm**
 

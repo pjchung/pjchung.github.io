@@ -126,11 +126,12 @@ categories: esophagus
 
 | Type | Procedure Name | Description |
 |------|----------------|-------------|
-| Complete Fundoplication | Nissen         | 360 degree wrap |
-| Partial Fundoplication  | Toupet         | 270 degree wrap |
-|                         | Anterior Fundoplication | 180 degree or 90 degree wrap |
+| Complete Fundoplication | Nissen         | 360&deg; wrap |
+| Partial Fundoplication  | Toupet         | 270&deg; posterior wrap |
+|                         | Dor            | 150 - 200&deg; anterior wrap |
+|                         | Thal           | 90&deg; anterior wrap |
 |                         | Hill Repair    | Recreation of Angle of His<sup>\*</sup> and Posterior Gastropexy |
-|                         | Belsey Mark IV | Transthoracic 240 degree wrap |
+|                         | Belsey Mark IV | Transthoracic 240&deg; anterolateral wrap |
 
 <img src="/assets/2014-10-26-gastroesophageal-reflux-disease/angle_of_his.jpg" alt="angle-of-his" class="center">
 
