@@ -19,10 +19,9 @@ categories: esophagus
 ## Pathophysiology
 
 * One of three types of esophageal diverticula
-  * Zenker's (upper)
-  * Parabronchial (middle)
-  * Epiphrenic (lower)
-* Are **pulsion** diverticula
+  * Zenker's (upper, *pulsion*)
+  * Parabronchial (middle, *traction*)
+  * Epiphrenic (lower, *pulsion*)
 * Outpouching of **Pharyngeal mucosa** past the **Cricopharyngeal muscle** into **Killian's Triangle**
   * Only the mucosa herniates
   * False diverticula

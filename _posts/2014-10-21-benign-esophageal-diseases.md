@@ -229,14 +229,17 @@ categories: esophagus
       * End-stage disease
       * Stricture
       * Perforation
-    * **Partial Fundoplication**
-      Minimizes risk of postoperative dysphagia in exchange for higher recurrence of reflux
+    * **Partial Fundoplication** (Toupet Fundoplication)
+    * Minimizes risk of postoperative dysphagia in exchange for higher recurrence of reflux
     * **Collis Gastroplasty with Antireflux Procedure**
     * Considerations for *Steroid* and *Immunosuppressant Agents* typically used in these patients must be balanced
 
 ## Esophageal Structural Disorders
 
-#### Congenital Webs
+#### Schatzki's Ring
+
+* Thin submucosal circumferential ring in the Lower Esophagus at the Squamocolumnar Junction
+* Often associated with **[Hiatal Hernias]({% post_url 2014-08-31-paraesophageal-hernia %})** 
 
 #### Acquired Strictures
 
