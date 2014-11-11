@@ -18,9 +18,6 @@ pjchungApp.controller('SearchCtrl', function($scope, $http) {
   });
 });
 
-pjchungApp.controller('QuestionsCtrl', function($scope, $http) {
+pjchungApp.controller('QuestionsCtrl', function($scope) {
   $scope.hideAnswer = false;
-  $http.get('/questions/esophagus-diaphgram/esophagus-diaphgram.json').success(function (data) {
-    $scope.esophagusQuestions = data;
-  });
 });

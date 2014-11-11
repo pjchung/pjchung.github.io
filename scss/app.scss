@@ -73,6 +73,20 @@ h4 a:hover {
   color: $secondary-color;
 }
 
+// Style for Blockquotes - used for caution
+blockquote {
+  background: #fcfcfc;    
+  border: 1px dashed $primary-color-hover;
+  margin: 1em;
+  padding: 1em;
+  
+  p {
+    color: $primary-color;
+    margin: 0;
+    padding: 0;
+  }
+} 
+
 // Style for the text over the Disqus section
 .comment-statement {
   text-align: center;
@@ -81,6 +95,7 @@ h4 a:hover {
   font-family: 'Raleway', 'Open Sans', sans-serif;
 }
 
+// Style for Images
 img.center {
   display: block;
   margin-left: auto;
