@@ -16,7 +16,7 @@ permalink: /syllabus/
 * **The Management of Esophageal Carcinomas**
 * **Neoadjuvant and Adjuvant Therapy of Esophageal Cancer**
 * **The Use of Esophageal Stents**
-* **The Management of Esophageal Perforation**
+* **The Management of Esophageal Perforation** &#x2713;
 
 ### Section 2: The Stomach
 * **The Management of Benign Gastric Ulcer** &#x2713; 
