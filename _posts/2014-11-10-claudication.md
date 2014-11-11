@@ -83,9 +83,9 @@ categories: vascular
 
 #### Invasive Therapy
 
-<img src="/assets/2014-11-10-claudication/thoracic_abdomen_arteries.jpeg" alt="thoracic-abdomen-arteries" class="center">
+<img src="/assets/2014-11-10-claudication/thoracic_abdomen_arteries.jpg" alt="thoracic-abdomen-arteries" class="center">
 
-<img src="/assets/2014-11-10-claudication/lower_limb_arteries.jpeg" alt="lower-limb-arteries" class="center">
+<img src="/assets/2014-11-10-claudication/lower_limb_arteries.jpg" alt="lower-limb-arteries" class="center">
 
 <img src="/assets/2014-11-10-claudication/claudication_treatment.png" alt="claudication-algorithm" class="center">
 
