@@ -105,4 +105,4 @@ categories: vascular
 
 ## *References*
 * **Barshes NR, Ozaki CK:** The Treatment of Claudication. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
-* OpenStax CNX: Circulatory Pathways. [](http://cnx.org/contents/1aa6075b-8678-43f0-891d-cff6252fb2eb@3/Circulatory_Pathways) Published March 20, 2013. Updated June 19, 2013. Accessed November 10, 2014.
+* OpenStax CNX: Circulatory Pathways. <u>http://cnx.org/contents/1aa6075b-8678-43f0-891d-cff6252fb2eb@3/Circulatory_Pathways</u> Published March 20, 2013. Updated June 19, 2013. Accessed November 10, 2014.
