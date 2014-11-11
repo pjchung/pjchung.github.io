@@ -59,5 +59,5 @@ categories: esophagus
 * The diverticula tends to present on the left
 
 ## *References*
-* **Heitmiller, RF:** The Management of Pharyngeal Esophageal (Zenker's) Diverticula. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
+* **Heitmiller RF:** The Management of Pharyngeal Esophageal (Zenker's) Diverticula. **Cameron JL** *Current Surgical Therapy.* ed 11 2014 **CV Mosby Philadelphia**
 * Ferguson MK. Evolution of therapy for pharyngoesophageal (Zenker’s) diverticulum. *Ann Thorac Surg.* 1991;51(5):848–852. doi:10.1016/0003-4975(91)90153-H.

@@ -204,10 +204,10 @@ permalink: /syllabus/
 * The Management of Tibioperoneal Occlusive Disease
 * Profunda Femoris Reconstruction
 * Popliteal and Femoral Artery Aneurysms
-* The Treatment of Claudication
-* False Aneurysm and Arterial Venous Fistula
-* Axillofemoral Bypass
-* **The Management of Peripheral Arterial Embolis**
+* **The Treatment of Claudication**  &#x2713;
+* **Pseudoaneurysm and Arterial Venous Fistula**  &#x2713;
+* **Axillofemoral Bypass**
+* **The Management of Peripheral Arterial Embolism**
 * Acute Peripheral Arterial and Bypass Graft Occlusion: Thrombolytic Therapy
 * Atherosclerotic Renovascular Disease
 * Raynaud's Syndrome
