@@ -13,10 +13,10 @@ permalink: /syllabus/
 * **The Management of Pharyngeal Esophageal (Zenker's Diverticula)** &#x2713;
 * **The Management of Achalasia of the Esophagus** &#x2713;
 * **The Management of Disorders of Esophageal Motility** &#x2713;
-* **The Management of Esophageal Carcinomas** &#x2713;
-* Neoadjuvant and Adjuvant Therapy of Esophageal Cancer
-* The Use of Esophageal Stents
-* The Management of Esophageal Perforation
+* **The Management of Esophageal Carcinomas**
+* **Neoadjuvant and Adjuvant Therapy of Esophageal Cancer**
+* **The Use of Esophageal Stents**
+* **The Management of Esophageal Perforation**
 
 ### Section 2: The Stomach
 * **The Management of Benign Gastric Ulcer** &#x2713; 

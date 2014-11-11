@@ -83,6 +83,10 @@ categories: vascular
 
 #### Invasive Therapy
 
+<img src="/assets/2014-11-10-claudication/thoracic_abdomen_arteries.png" alt="thoracic-abdomen-arteries" class="center">
+
+<img src="/assets/2014-11-10-claudication/lower_limb_arteries.png" alt="lower-limb-arteries" class="center">
+
 <img src="/assets/2014-11-10-claudication/claudication_treatment.png" alt="claudication-algorithm" class="center">
 
 * Deep Femoral Artery disease should be aggressively sought and treated
