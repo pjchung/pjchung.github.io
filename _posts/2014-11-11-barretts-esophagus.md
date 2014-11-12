@@ -82,7 +82,7 @@ categories: esophagus
   * Long-term use of PPIs is called into question due to the growing evidence of risks associated with long-term use
   * Associated with **Osteoporosis-related Fractures**
   * Associated with increased susceptibility to bacterial infections (*Salmonella*, *Campylobacter*, and *Clostridium difficile*)
-  * *C. difficile* has the highest association with PPI use
+  * ***C. difficile*** has the highest association with PPI use
 * **Non-steroidal Anti-inflammatory Drugs (NSAID)**
   * Shown to decrease the proliferation of BE cells
   * Shown to decrease the neoplastic progression of BE to Esophageal Adenocarcinoma
@@ -97,7 +97,7 @@ categories: esophagus
     * Results in scarring and collagen deposition at the GEJ
     * Or causes ablation of Vagal afferent fibers
   * **EsophyX**
-    * *Transoral Incisionless Fundoplication (TIF)*
+    * **Transoral Incisionless Fundoplication (TIF)**
   * However none of these methods have demonstrated long-term improvements in the pH levels or cessation of antireflux medications
 * **Radiofrequency Ablation (RFA)**
   * **HALO 360 System**
@@ -105,7 +105,7 @@ categories: esophagus
     * Can achieve reversion in up to 90% of patients with **LGD**
   * No data to support that RFA is more effective at reducing cancer risk or more cost-effective than surveillance
 * **Photodynamic Therapy (PDT)**
-  * Systemic administration of a photosensitizer (e.g. *porfimer sodium*) that accumulates in **HGD** and **neoplastic cells**
+  * Systemic administration of a photosensitizer (e.g. ***porfimer sodium***) that accumulates in **HGD** and **neoplastic cells**
   * Endoscopic delivery of a low-energy, nonthermal laser beam activates the photosensitizer
   * Enables oxygen radical formation and cell destruction
 * Ablative therapies are limited in that they cannot assess depth of **HGD** nor detect unsuspected foci of Esophageal Adenocarcinoma
@@ -123,7 +123,7 @@ categories: esophagus
   * Unclear whether Antireflux Procedures prevent Esophageal Adenocarcinoma
 * **Esophagectomy**
   * The gold standard in treatment for **HGD**
-  * Cures and serves as a prophylaxis against Esophageal Adenocarcinoma in patients with **HGD BE**
+  * Cures and serves as a prophylaxis against Esophageal Adenocarcinoma in patients with **HGD**
   * Overall perioperative mortality of 0.94%
   * Initial and prolonged adjustment period
   * However quality-of-life score similar to national norm by 5 years
