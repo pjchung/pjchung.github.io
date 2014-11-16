@@ -8,7 +8,7 @@ permalink: /syllabus/
 * **Gastroesophageal Reflux Disease** &#x2713;
 * **Endoluminal Approaches to Gastroesophageal Reflux Disease** &#x2713;
 * **The Management of Barrett's Esophagus** &#x2713;
-* The Endoscopic Treatment of Barrett's Esophagus
+* **The Endoscopic Treatment of Barrett's Esophagus** &#x2713;
 * **The Management of Paraesophageal Hiatal Hernia** &#x2713; <!-- check mark -->
 * **The Management of Pharyngeal Esophageal (Zenker's Diverticula)** &#x2713;
 * **The Management of Achalasia of the Esophagus** &#x2713;
