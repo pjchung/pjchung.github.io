@@ -7,10 +7,30 @@ categories: vascular
 
 ## Overview
 
+#### Epidemiology
+
 * Prevalence of 8% in adults &gt; 60 years
 * Rupture leads to 15,000 deaths annually
 * **[Endovascular Aneurysm Repair (EVAR)]()** is usually the preferred method of treatment
 * Some situations where Open Surgical Repair (OSR) preferred (*see below*)
+
+#### Pathophysiology
+
+* Causes
+  * Degenerative (90%)
+    * **Matrix metalloproteinases (MMPs)**
+  * Inflammatory (5%)
+    * Infection (e.g. *Chlamydia pneumonia*)
+    * Autoimmune processes (e.g. B-type lymphocytes, plasma cells, immunoglobulin)
+  * Idiopathic (5%)
+* Location
+  * Suprarenal (5%)
+  * Infrarenal (95%)
+    * Iliac artery involvement (25%)
+    * Femoral or Popliteal artery involvement (4%)
+    * Renal or other visceral artery involvement (2%)
+* Risk for **rupture** correlates with wall tension as per ***Laplace's Law***
+  * T = p &times; **r**
 * Risk Factors associated with Rupture
   * Female gender
   * Increased Mean Arterial Pressure (MAP)
@@ -47,6 +67,13 @@ categories: vascular
 * &gt; 5.0 cm diameter in females
 * Growth &gt; 0.5 cm in 6 months
 * Symptomatic AAA
+
+#### Medical Management
+
+* Control of Hypertension
+* Control of COPD
+* Smoking cessation
+* ***Doxycycline*** may retard aneurysm growth by inhibiting **MMPs**
 
 #### Indications for Open AAA Repair
 
