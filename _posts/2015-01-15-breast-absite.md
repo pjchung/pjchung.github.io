@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breast"
+title: "Breast ABSITE Review"
 date: 2015-01-15 11:00:00
 categories: absite
 ---
@@ -9,13 +9,19 @@ categories: absite
 
 #### Mammogram
 * Presence or absence of palpable mass, not BIRADS dictates whether biopsy should be performed
-  * Palpable masses **should be biopsied**
+
+> Palpable masses **should be biopsied**
+
 * **Radial Scars** &#8594; **Complex Sclerosing Lesions**
   * Long, thin, radiating spicules with translucent central area of fat &#8594; "Black Star"
   * Is a **benign lesion** but is a **risk factor for malignancy** &#8594; Needle Biopsy indicated
 
 #### MRI
 * Recommended if
+  * Discordance between physical exam and routine imaging
+  * Cancers with lobular histology
+  * Unexpected involved margins
+  * Planned neoadjuvant chemotherapy
   * BRCA mutation present
   * &ge; 1 first-degree relative who is a BRCA carrier
   * &ge; 1 first-degree relative with genetic syndrome at high risk for breast cancer
